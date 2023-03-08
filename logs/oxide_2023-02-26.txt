@@ -1,0 +1,217 @@
+00:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+00:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+00:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+02:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+02:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+03:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+03:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:47 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 276ms
+03:47 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+03:47 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 245ms
+03:47 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+03:47 [Info] Unloaded plugin ATP v0.1.3 by mspeedie
+03:47 [Info] Loaded plugin ATP v0.1.3 by mspeedie
+03:47 [Info] Unloaded plugin Unburnable Meat v1.0.1 by S642667
+03:47 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+03:47 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+03:47 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+03:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:47 [Info] VendingInStock, TeamManager, AutomatedStashTraps, Vanish, RecyclerSpeed, Pop, BetterLoot, GatherManager, EntityOwner, AdminRadar, StackSizeController, MapNoteTeleport, NTeleportation, TeamInfo, PermissionsManager, BypassQueue, NoGiveNotices, AdvertMessages, TeamsLogger, TimeOfDay and LoadingMessages were compiled successfully in 4109ms
+03:47 [Info] Unloaded plugin Vending In Stock v1.1.0 by AVOcoder / rostov114
+03:47 [Info] Unloaded plugin Team Manager v1.0.6 by Quantum
+03:47 [Info] [Automated Stash Traps] Cleaned up 50 traps.
+03:47 [Warning] Calling 'Unload' on 'AutomatedStashTraps v1.4.1' took 215ms
+03:47 [Info] Unloaded plugin Automated Stash Traps v1.4.1 by Dana
+03:47 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+03:47 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+03:47 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+03:47 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 412ms [GARBAGE COLLECT]
+03:47 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+03:47 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 242ms
+03:47 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+03:47 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+03:47 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+03:47 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+03:47 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+03:47 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+03:47 [Info] Unloaded plugin NTeleportation v1.7.1 by nivex
+03:47 [Info] Unloaded plugin Team Info v0.1.7 by Lorddy
+03:47 [Info] Unloaded plugin PermissionsManager v2.0.7 by Steenamaroo
+03:47 [Info] Unloaded plugin Bypass Queue v1.0.4 by Orange
+03:47 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+03:47 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Info] Unloaded plugin Teams Logger v1.5.1 by Ujiou
+03:47 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+03:47 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+03:47 [Info] Loaded plugin Vending In Stock v1.1.0 by AVOcoder / rostov114
+03:47 [Info] Loaded plugin Team Manager v1.0.6 by Quantum
+03:47 [Warning] [Automated Stash Traps] Validating configuration values...
+03:47 [Warning] [Automated Stash Traps] Configuration validation complete!
+03:47 [Info] Loaded plugin Automated Stash Traps v1.4.1 by Dana
+03:47 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+03:47 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+03:47 [Info] Loaded plugin Pop v1.0.0 by SaSha
+03:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+03:47 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+03:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+03:47 [Info] [BetterLoot] Updating internals ...
+03:47 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+03:47 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 234ms
+03:47 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+03:47 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+03:47 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+03:47 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+03:47 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+03:47 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+03:47 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.1' took 286ms
+03:47 [Info] Loaded plugin NTeleportation v1.7.1 by nivex
+03:47 [Info] Loaded plugin Team Info v0.1.7 by Lorddy
+03:47 [Info] Loaded plugin PermissionsManager v2.0.7 by Steenamaroo
+03:47 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+03:47 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+03:47 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+03:47 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Info] Loaded plugin Teams Logger v1.5.1 by Ujiou
+03:47 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+03:47 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+03:47 [Info] [BetterLoot] Removed 9 stacked LootContainer
+03:47 [Info] [BetterLoot] Populated '8856' supported containers.
+03:47 [Info] [Automated Stash Traps] Generated 50 spawn points.
+03:47 [Info] [Automated Stash Traps] Spawned 50 traps.
+03:47 [Info] [Admin Radar] Cached 14653/82722 entities in 13.892892 seconds!
+03:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+04:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+04:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+04:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+04:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+05:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+05:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+05:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+05:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+05:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+05:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+06:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+06:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+06:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+06:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+06:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+06:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+07:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+07:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+07:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+07:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+07:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+07:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+08:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+08:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+08:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+08:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+08:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+08:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+09:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+09:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+09:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+09:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+09:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+09:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+10:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+10:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+10:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+10:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+10:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+10:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+11:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+11:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+11:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+11:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+11:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+11:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+12:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+12:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+12:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+12:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+12:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+12:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+13:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+13:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+13:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+13:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+13:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+13:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+14:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+14:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+14:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+14:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+15:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+15:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+15:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+15:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+17:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+17:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+18:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+19:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+19:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+20:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+21:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+22:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+23:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!

@@ -1,0 +1,20 @@
+{
+  "Prefix": "[ <color=#E74C3C>Strangeland</color> ] ",
+  "Color Of Messages": "#BDC3C7",
+  "Messages": [
+    "The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!",
+    "Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.",
+    "Our discord server is <color=#E67E22>discord.strangeland.eu</color>!",
+    "<color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>"
+  ],
+  "CommandMessages": [
+    "!limit",
+    "!report",
+    "!discord",
+    "!alliance"
+  ],
+  "Advert Interval (in Minutes)": 10.0,
+  "Command Advert Limit (in Seconds)": 5,
+  "Broadcast to Console (true/false)": true,
+  "Choose Message at Random (true/false)": false
+}

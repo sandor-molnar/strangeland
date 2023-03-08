@@ -1,0 +1,20 @@
+23:26 [Info] Loading Oxide Core v2.0.4050...
+23:26 [Info] Loading extensions...
+23:26 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+23:26 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+23:26 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+23:26 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+23:26 [Info] Unity version: 2019.4.7f1
+23:26 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+23:26 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:26 [Info] Local compiler MD5: 0
+23:26 [Info] Compiler MD5 hash did not match, downloading latest
+23:26 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+23:26 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+23:26 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:26 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:26 [Info] Using Covalence provider for game 'Rust'
+23:26 [Info] Loading plugins...
+23:26 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+23:26 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+23:29 [Info] IP address from external API: 217.144.54.193

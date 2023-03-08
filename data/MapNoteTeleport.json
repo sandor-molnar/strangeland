@@ -1,0 +1,14 @@
+{
+  "PlayerData": {
+    "76561198377295434": {
+      "Enabled": true,
+      "Cooldown": 10.0,
+      "Notification": true
+    },
+    "76561198988194773": {
+      "Enabled": true,
+      "Cooldown": 0.0,
+      "Notification": false
+    }
+  }
+}

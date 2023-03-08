@@ -1,0 +1,8 @@
+{
+  "Error.Permission": "You do not have the necessary permission to use this command.",
+  "Trap.Reveal": "Hidden stash was found by <color=#F2C94C>{0}</color> at <color=#F2C94C>{1}</color>. Don't waste any time! Use <color=#F2994A>trap.teleport</color> to quickly jump to the site.",
+  "Trap.Loot": "Stash loot table has been updated with a total of <color=#F2C94C>{0}</color> items.",
+  "Trap.Draw": "Highlighting <color=#F2C94C>{0}</color> deployed traps on the map.",
+  "Trap.Give": "You have received a stash trap. Simply place it on the ground to set it up.",
+  "Trap.Setup": "Trap has been set up and filled with loot."
+}

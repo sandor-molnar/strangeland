@@ -1,0 +1,646 @@
+00:07 [Info] [Advert Messages] Welcome to our server, have fun!
+00:17 [Info] [Advert Messages] Please treat everybody respectfully.
+00:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:37 [Info] [Advert Messages] Welcome to our server, have fun!
+00:47 [Info] [Advert Messages] Please treat everybody respectfully.
+00:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:07 [Info] [Advert Messages] Welcome to our server, have fun!
+01:17 [Info] [Advert Messages] Please treat everybody respectfully.
+01:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:37 [Info] [Advert Messages] Welcome to our server, have fun!
+01:47 [Info] [Advert Messages] Please treat everybody respectfully.
+01:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:07 [Info] [Advert Messages] Welcome to our server, have fun!
+02:17 [Info] [Advert Messages] Please treat everybody respectfully.
+02:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:37 [Info] [Advert Messages] Welcome to our server, have fun!
+02:47 [Info] [Advert Messages] Please treat everybody respectfully.
+02:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:07 [Info] [Advert Messages] Welcome to our server, have fun!
+03:17 [Info] [Advert Messages] Please treat everybody respectfully.
+03:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:37 [Info] [Advert Messages] Welcome to our server, have fun!
+03:47 [Info] PlayerAdministration and AdvertMessages were compiled successfully in 2762ms
+03:47 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+03:47 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+03:47 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+03:47 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+03:57 [Info] [Advert Messages] Welcome to our server, have fun!
+04:07 [Info] [Advert Messages] Please treat everybody respectfully.
+04:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:27 [Info] [Advert Messages] Welcome to our server, have fun!
+04:37 [Info] [Advert Messages] Please treat everybody respectfully.
+04:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:57 [Info] [Advert Messages] Welcome to our server, have fun!
+05:07 [Info] [Advert Messages] Please treat everybody respectfully.
+05:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:27 [Info] [Advert Messages] Welcome to our server, have fun!
+05:37 [Info] [Advert Messages] Please treat everybody respectfully.
+05:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:57 [Info] [Advert Messages] Welcome to our server, have fun!
+06:07 [Info] [Advert Messages] Please treat everybody respectfully.
+06:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:27 [Info] [Advert Messages] Welcome to our server, have fun!
+06:37 [Info] [Advert Messages] Please treat everybody respectfully.
+06:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:57 [Info] [Advert Messages] Welcome to our server, have fun!
+07:07 [Info] [Advert Messages] Please treat everybody respectfully.
+07:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:27 [Info] [Advert Messages] Welcome to our server, have fun!
+07:37 [Info] [Advert Messages] Please treat everybody respectfully.
+07:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:57 [Info] [Advert Messages] Welcome to our server, have fun!
+08:07 [Info] [Advert Messages] Please treat everybody respectfully.
+08:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:27 [Info] [Advert Messages] Welcome to our server, have fun!
+08:37 [Info] [Advert Messages] Please treat everybody respectfully.
+08:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:57 [Info] [Advert Messages] Welcome to our server, have fun!
+09:07 [Info] [Advert Messages] Please treat everybody respectfully.
+09:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:27 [Info] [Advert Messages] Welcome to our server, have fun!
+09:37 [Info] [Advert Messages] Please treat everybody respectfully.
+09:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:57 [Info] [Advert Messages] Welcome to our server, have fun!
+10:07 [Info] [Advert Messages] Please treat everybody respectfully.
+10:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:27 [Info] [Advert Messages] Welcome to our server, have fun!
+10:37 [Info] [Advert Messages] Please treat everybody respectfully.
+10:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:57 [Info] [Advert Messages] Welcome to our server, have fun!
+11:07 [Info] [Advert Messages] Please treat everybody respectfully.
+11:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:27 [Info] [Advert Messages] Welcome to our server, have fun!
+11:37 [Info] [Advert Messages] Please treat everybody respectfully.
+11:47 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:57 [Info] [Advert Messages] Welcome to our server, have fun!
+12:07 [Info] [Advert Messages] Please treat everybody respectfully.
+12:17 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:27 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+12:27 [Info] [Advert Messages] Welcome to our server, have fun!
+12:29 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+12:29 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+12:29 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:29 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+12:29 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+12:29 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+12:29 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+12:29 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+12:29 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+12:30 [Info] Loading Oxide Core v2.0.4050...
+12:30 [Info] Loading extensions...
+12:30 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+12:30 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+12:30 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+12:30 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+12:30 [Info] Unity version: 2019.4.7f1
+12:30 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+12:30 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:30 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:30 [Info] Using Covalence provider for game 'Rust'
+12:30 [Info] Loading plugins...
+12:30 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+12:30 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+12:30 [Info] AdminPanel, AdvertMessages, BetterLoot, GatherManager, PlayerAdministration, StackSizeController, TimeOfDay and Vanish were compiled successfully in 0ms
+12:30 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+12:30 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+12:30 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+12:30 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:30 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:30 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+12:30 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+12:30 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+12:30 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+12:30 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+12:30 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+12:32 [Info] IP address from external API: 217.144.54.193
+12:32 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+12:32 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:32 [Info] [BetterLoot] Updating internals ...
+12:32 [Info] [BetterLoot] No stacked LootContainer found.
+12:32 [Info] [BetterLoot] Populated '220' supported containers.
+12:40 [Info] [Advert Messages] Welcome to our server, have fun!
+12:44 [Info] Player 'サシャ(76561198377295434)' removed from group 'admin'
+12:44 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+12:47 [Info] Groups:
+default, admin
+12:50 [Info] Permissions:
+oxide.plugins, oxide.load, oxide.reload, oxide.unload, oxide.grant, oxide.group, oxide.revoke, oxide.show, oxide.usergroup, adminpanel.allowed, adminpanel.autotoggle.admin, playeradministration.access.show, playeradministration.access.kick, playeradministration.access.ban, playeradministration.access.kill, playeradministration.access.perms, playeradministration.access.mute, playeradministration.access.allowfreeze, playeradministration.access.clearinventory, playeradministration.access.resetblueprint, playeradministration.access.resetmetabolism, playeradministration.access.recovermetabolism, playeradministration.access.hurt, playeradministration.access.heal, playeradministration.access.teleport, playeradministration.access.spectate, playeradministration.access.detailedinfo, playeradministration.protect.ban, playeradministration.protect.hurt, playeradministration.protect.kick, playeradministration.protect.kill, playeradministration.protect.reset, stacksizecontroller.setstack, stacksizecontroller.setstackcat, stacksizecontroller.setallstacks, stacksizecontroller.itemsearch, stacksizecontroller.listcategories, stacksizecontroller.listcategoryitems, stacksizecontroller.vd, vanish.allow, vanish.unlock, vanish.damage, vanish.permanent, betterloot.admin
+12:50 [Info] [Advert Messages] Please treat everybody respectfully.
+12:51 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+12:52 [Info] Group 'admin' players:
+76561198377295434 (サシャ)
+
+Group 'admin' permissions:
+No permissions currently granted
+12:53 [Info] Group 'admin' granted permission '*'
+12:53 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+12:53 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+12:53 [Info] AdminPanel, AdvertMessages, BetterLoot, GatherManager, PlayerAdministration, StackSizeController and TimeOfDay were compiled successfully in 1955ms
+12:53 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+12:53 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+12:53 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:54 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+12:54 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+12:54 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+12:54 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+12:54 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+12:54 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+12:54 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+12:54 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+12:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:54 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+12:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+12:54 [Info] [BetterLoot] Updating internals ...
+12:54 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+12:54 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+12:54 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+12:54 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+12:54 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+12:54 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+12:54 [Info] [BetterLoot] Removed 2 stacked LootContainer
+12:54 [Info] [BetterLoot] Populated '2158' supported containers.
+12:58 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+13:00 [Info] Player 'サシャ(76561198377295434)' removed from group 'admin'
+13:01 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+13:01 [Info] Player 'サシャ(76561198377295434)' removed from group 'admin'
+13:02 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+13:02 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+13:03 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+13:03 [Info] Player 'サシャ(76561198377295434)' removed from group 'admin'
+13:04 [Info] [Advert Messages] Welcome to our server, have fun!
+13:04 [Info] Player 'サシャ(76561198377295434)' removed from group 'admin'
+13:14 [Info] [Advert Messages] Please treat everybody respectfully.
+13:24 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:34 [Info] [Advert Messages] Welcome to our server, have fun!
+13:44 [Info] [Advert Messages] Please treat everybody respectfully.
+13:54 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:04 [Info] [Advert Messages] Welcome to our server, have fun!
+14:14 [Info] [Advert Messages] Please treat everybody respectfully.
+14:24 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:34 [Info] [Advert Messages] Welcome to our server, have fun!
+14:44 [Info] [Advert Messages] Please treat everybody respectfully.
+14:54 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:04 [Info] [Advert Messages] Welcome to our server, have fun!
+15:14 [Info] [Advert Messages] Please treat everybody respectfully.
+15:24 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:34 [Info] [Advert Messages] Welcome to our server, have fun!
+15:44 [Info] [Advert Messages] Please treat everybody respectfully.
+15:47 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:47 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:48 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:48 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:49 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:49 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:50 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:50 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:51 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:51 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:52 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:52 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:53 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:53 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:54 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:54 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:55 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:55 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:56 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:56 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:57 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:57 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:58 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:58 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:59 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+15:59 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:00 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:00 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:01 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:01 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:02 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:02 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:03 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:03 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:04 [Info] [Advert Messages] Welcome to our server, have fun!
+16:04 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:04 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:05 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:05 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:06 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:06 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:07 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:07 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:08 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:08 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:09 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:09 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:10 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:10 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:11 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:14 [Info] [Advert Messages] Please treat everybody respectfully.
+16:18 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:18 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:18 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:19 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:19 [Warning] [DEBUG] Reload requested for plugin which is already loading: AdvertMessages
+16:19 [Error] Error while compiling: AdvertMessages.cs(81,18): error CS0103: The name `Disappear' does not exist in the current context
+16:19 [Error] Error while compiling: AdvertMessages.cs(84,18): error CS0103: The name `Disappear' does not exist in the current context
+16:19 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:19 [Info] AdvertMessages was compiled successfully in 264ms
+16:19 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:19 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:19 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:20 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:20 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:21 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:21 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:22 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:22 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:23 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:23 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:24 [Error] Error while compiling: AdvertMessages.cs(26,42): error CS1061: Type `Oxide.Plugins.AdvertMessages.Configuration' does not contain a definition for `CommandMessages' and no extension method `CommandMessages' of type `Oxide.Plugins.AdvertMessages.Configuration' could be found. Are you missing an assembly reference?
+16:24 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:24 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:24 [Error] Unable to load AdvertMessages. AdvertMessages.cs(26,42): error CS1061: Type `Oxide.Plugins.AdvertMessages.Configuration' does not contain a definition for `CommandMessages' and no extension method `CommandMessages' of type `Oxide.Plugins.AdvertMessages.Configuration' could be found. Are you missing an assembly reference?
+16:24 [Info] Previous version of plugin failed to load: AdvertMessages
+16:24 [Error] Could not load plugin 'AdvertMessage' (no plugin found with that file name)
+16:24 [Error] Unable to load AdvertMessages. AdvertMessages.cs(26,42): error CS1061: Type `Oxide.Plugins.AdvertMessages.Configuration' does not contain a definition for `CommandMessages' and no extension method `CommandMessages' of type `Oxide.Plugins.AdvertMessages.Configuration' could be found. Are you missing an assembly reference?
+16:24 [Info] Previous version of plugin failed to load: AdvertMessages
+16:24 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:25 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:25 [Error] Unable to load AdvertMessages. AdvertMessages.cs(26,42): error CS1061: Type `Oxide.Plugins.AdvertMessages.Configuration' does not contain a definition for `CommandMessages' and no extension method `CommandMessages' of type `Oxide.Plugins.AdvertMessages.Configuration' could be found. Are you missing an assembly reference?
+16:25 [Info] Previous version of plugin failed to load: AdvertMessages
+16:25 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:26 [Info] AdvertMessages was compiled successfully in 1976ms
+16:26 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:26 [Info] [Advert Messages] Test
+16:26 [Info] [Advert Messages] Test
+16:26 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:26 [Info] [Advert Messages] Test
+16:26 [Info] [Advert Messages] Test
+16:26 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:26 [Info] AdvertMessages was compiled successfully in 241ms
+16:26 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:26 [Info] [Advert Messages] Test
+16:26 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Error] Error while compiling: AdvertMessages.cs(27,30): error CS1503: Argument `#1' cannot convert `System.Collections.Generic.List<string>' expression to type `string'
+16:26 [Info] AdvertMessages was compiled successfully in 320ms
+16:26 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:26 [Info] [Advert Messages] !welcome
+16:26 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:26 [Info] [Advert Messages] !welcome
+16:26 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:26 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:27 [Error] Error while compiling: AdvertMessages.cs(28,13): error CS1002: ; expected
+16:27 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:27 [Error] Error while compiling: AdvertMessages.cs(28,13): error CS1002: ; expected
+16:27 [Error] Error while compiling: AdvertMessages.cs(27,65): error CS1503: Argument `#2' cannot convert `method group' expression to type `string'
+16:27 [Error] Error while compiling: AdvertMessages.cs(27,65): error CS1503: Argument `#2' cannot convert `method group' expression to type `string'
+16:27 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:27 [Error] Unable to load AdvertMessages. AdvertMessages.cs(27,65): error CS1503: Argument `#2' cannot convert `method group' expression to type `string'
+16:27 [Info] Previous version of plugin failed to load: AdvertMessages
+16:27 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:28 [Info] AdvertMessages was compiled successfully in 259ms
+16:28 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:28 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:28 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:28 [Info] AdvertMessages was compiled successfully in 170ms
+16:28 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:28 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:28 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:28 [Info] [Advert Messages] !welcome
+16:28 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:29 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:29 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:29 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:29 [Info] [Advert Messages] welcome
+16:29 [Info] [Advert Messages] welcome
+16:29 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:29 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:30 [Info] AdvertMessages was compiled successfully in 1888ms
+16:30 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:30 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:30 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:30 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:30 [Info] AdvertMessages was compiled successfully in 356ms
+16:30 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:30 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:30 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:30 [Info] AdvertMessages was compiled successfully in 218ms
+16:30 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:30 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:30 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:30 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:31 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:31 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:31 [Info] AdvertMessages was compiled successfully in 2049ms
+16:31 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:31 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:31 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:32 [Info] AdvertMessages was compiled successfully in 181ms
+16:32 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:32 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:32 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:32 [Info] AdvertMessages was compiled successfully in 226ms
+16:32 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:32 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:32 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:32 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:32 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:33 [Error] Error while compiling: AdvertMessages.cs(67,63): error CS0246: The type or namespace name `Chat' could not be found. Are you missing `ConVar' using directive?
+16:33 [Error] Error while compiling: AdvertMessages.cs(67,64): error CS0246: The type or namespace name `Chat' could not be found. Are you missing `ConVar' using directive?
+16:33 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:33 [Info] AdvertMessages was compiled successfully in 302ms
+16:33 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:33 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:33 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:33 [Info] [Advert Messages] OnPlayerChat works!
+16:33 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:34 [Error] Error while compiling: AdvertMessages.cs(65,17): error CS1525: Unexpected symbol `)'
+16:34 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:34 [Error] Error while compiling: AdvertMessages.cs(63,16): error CS0161: `Oxide.Plugins.AdvertMessages.OnPlayerChat(BasePlayer, string)': not all code paths return a value
+16:34 [Error] Error while compiling: AdvertMessages.cs(63,16): error CS0161: `Oxide.Plugins.AdvertMessages.OnPlayerChat(BasePlayer, string)': not all code paths return a value
+16:34 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:35 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:35 [Error] Unable to load AdvertMessages. AdvertMessages.cs(63,16): error CS0161: `Oxide.Plugins.AdvertMessages.OnPlayerChat(BasePlayer, string)': not all code paths return a value
+16:35 [Info] Previous version of plugin failed to load: AdvertMessages
+16:35 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:35 [Error] Error while compiling: AdvertMessages.cs(7,7): error CS0246: The type or namespace name `Chat' could not be found. Are you missing `ConVar' using directive?
+16:35 [Error] Error while compiling: AdvertMessages.cs(7,7): error CS0246: The type or namespace name `Chat' could not be found. Are you missing `ConVar' using directive?
+16:35 [Error] Error while compiling: AdvertMessages.cs(63,16): error CS0161: `Oxide.Plugins.AdvertMessages.OnPlayerChat(BasePlayer, string)': not all code paths return a value
+16:35 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:36 [Error] Error while compiling: AdvertMessages.cs(63,70): error CS1001: Unexpected symbol `)', expecting identifier
+16:36 [Error] Error while compiling: AdvertMessages.cs(63,16): error CS0161: `Oxide.Plugins.AdvertMessages.OnPlayerChat(BasePlayer, string, string)': not all code paths return a value
+16:36 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:36 [Info] AdvertMessages was compiled successfully in 226ms
+16:36 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:36 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:36 [Info] AdvertMessages was compiled successfully in 151ms
+16:36 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:36 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:36 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:36 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:37 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:37 [Info] AdvertMessages was compiled successfully in 176ms
+16:37 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:37 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:37 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:37 [Error] Error while compiling: AdvertMessages.cs(103,26): error CS0102: The type `Oxide.Plugins.AdvertMessages.Configuration' already contains a definition for `AdvertInterval'
+16:37 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:38 [Error] Error while compiling: AdvertMessages.cs(103,26): error CS0102: The type `Oxide.Plugins.AdvertMessages.Configuration' already contains a definition for `AdvertInterval'
+16:38 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:38 [Error] Error while compiling: AdvertMessages.cs(103,24): error CS0102: The type `Oxide.Plugins.AdvertMessages.Configuration' already contains a definition for `AdvertInterval'
+16:38 [Error] Error while compiling: AdvertMessages.cs(103,24): error CS0102: The type `Oxide.Plugins.AdvertMessages.Configuration' already contains a definition for `AdvertInterval'
+16:38 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:39 [Info] AdvertMessages was compiled successfully in 271ms
+16:39 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:39 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:39 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:39 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:39 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:40 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:40 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:40 [Error] Error while compiling: AdvertMessages.cs(70,16): error CS1525: Unexpected symbol `}'
+16:41 [Error] Error while compiling: AdvertMessages.cs(74,16): error CS1525: Unexpected symbol `}'
+16:41 [Error] Error while compiling: AdvertMessages.cs(16,44): error CS0031: Constant value `true' cannot be converted to a `int'
+16:41 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:41 [Error] Error while compiling: AdvertMessages.cs(16,44): error CS0031: Constant value `true' cannot be converted to a `int'
+16:41 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:41 [Error] Error while compiling: AdvertMessages.cs(16,44): error CS0031: Constant value `true' cannot be converted to a `int'
+16:42 [Info] AdvertMessages was compiled successfully in 212ms
+16:42 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:42 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:42 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:42 [Info] AdvertMessages was compiled successfully in 307ms
+16:42 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:42 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:42 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:42 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:42 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:43 [Info] AdvertMessages was compiled successfully in 162ms
+16:43 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:43 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] AdvertMessages was compiled successfully in 175ms
+16:43 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:43 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] AdvertMessages was compiled successfully in 303ms
+16:43 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:43 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] AdvertMessages was compiled successfully in 167ms
+16:43 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:43 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:43 [Info] AdvertMessages was compiled successfully in 365ms
+16:43 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:43 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:43 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:44 [Warning] [DEBUG] Reload requested for plugin which is already loading: AdvertMessages
+16:44 [Info] AdvertMessages was compiled successfully in 208ms
+16:44 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:44 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:44 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:44 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:44 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:44 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:44 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:44 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:45 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:45 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:45 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:45 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:45 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:45 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:45 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:45 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:45 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:45 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:45 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:46 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:46 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:46 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:46 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:46 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:47 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:47 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:47 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:47 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:47 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:48 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:48 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:49 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:49 [Info] AdvertMessages was compiled successfully in 1882ms
+16:49 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:49 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:49 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:49 [Info] AdvertMessages was compiled successfully in 187ms
+16:49 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:49 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:49 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:49 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:50 [Info] AdvertMessages was compiled successfully in 187ms
+16:50 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:50 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:50 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:50 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:50 [Info] AdvertMessages was compiled successfully in 324ms
+16:50 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:50 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:50 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:50 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:51 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:51 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:51 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:51 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:51 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:52 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:52 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:53 [Info] AdvertMessages was compiled successfully in 1992ms
+16:53 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:53 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] AdvertMessages was compiled successfully in 217ms
+16:53 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:53 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] AdvertMessages was compiled successfully in 171ms
+16:53 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:53 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:53 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:53 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:53 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:54 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:54 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:55 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:55 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:55 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:55 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:55 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:56 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:56 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:56 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:56 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:56 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:56 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:56 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:56 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:57 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:57 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:58 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:58 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:59 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+16:59 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:00 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:00 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:01 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:01 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:02 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:02 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:03 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:03 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:04 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:04 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:05 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:05 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:06 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:06 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:06 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:07 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:07 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:08 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:08 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:09 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:09 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:10 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:10 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:11 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:11 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:12 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:12 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:13 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:13 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:14 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:14 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:15 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:15 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:16 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:16 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:16 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+17:16 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+17:16 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:16 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:17 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:17 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:18 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:18 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:19 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:19 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:20 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:20 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:21 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:21 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+17:21 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+17:21 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:21 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:22 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:22 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:23 [Info] Player 'サシャ(76561198377295434)' added to group: admin
+17:31 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:41 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:51 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+18:01 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:21 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:31 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+18:41 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:51 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+19:01 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+19:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:21 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:31 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+19:41 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+19:51 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+20:01 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:21 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:31 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+20:41 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:51 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+21:01 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:21 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:31 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+21:41 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:51 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+22:01 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:21 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:31 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+22:41 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:51 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+23:01 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:21 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:31 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+23:41 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:51 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!

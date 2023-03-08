@@ -1,0 +1,17 @@
+{
+  "CONSOLE SETTINGS": {
+    "Anti-Spam Measure (Seconds)": 3.0,
+    "Log to Console": true,
+    "On Logged Colors (1 - Red, 2 - Yellow, 3 - White)": 3
+  },
+  "DISCORD SETTINGS": {
+    "Anti-Spam Measure (Seconds)": 3.0,
+    "Discord Rate Limit": 360,
+    "Log to Discord": false,
+    "Webhook URL": "---DISCORD WEBHOOK HERE---"
+  },
+  "FILE SETTINGS": {
+    "Anti-Spam Measure (Seconds)": 3.0,
+    "Log to Files": false
+  }
+}

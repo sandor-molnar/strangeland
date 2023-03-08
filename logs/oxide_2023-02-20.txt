@@ -1,0 +1,57 @@
+00:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+00:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+00:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+02:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+02:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+03:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+03:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:47 [Info] Unloaded plugin NTeleportation v1.7.1 by nivex
+03:47 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.1' took 297ms
+03:47 [Info] Loaded plugin NTeleportation v1.7.1 by nivex
+03:47 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+03:47 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+03:47 [Error] Exception while starting compiler version :  (Win32Exception: ApplicationName='/home/container/Compiler.x86_x64', CommandLine='/service /logPath:/home/container/oxide/logs', CurrentDirectory='', Native error= Out of memory)
+  at System.Diagnostics.Process.StartWithCreateProcess (System.Diagnostics.ProcessStartInfo startInfo) [0x002dc] in <14e3453b740b4bd690e8d4e5a013a715>:0 
+  at System.Diagnostics.Process.Start () [0x0003a] in <14e3453b740b4bd690e8d4e5a013a715>:0 
+  at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.Start()
+  at Oxide.Plugins.PluginCompiler.CheckCompiler () [0x001f3] in <09575a60985045248bcb43b20faeeb99>:0 
+03:47 [Warning] Compiler may not be set as executable; chmod +x or 0744/0755 required
+03:47 [Error] Win32 NativeErrorCode: 14 ErrorCode: -2147467259 HelpLink: 
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Error] Error while compiling: compiler version  couldn't be started
+03:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.

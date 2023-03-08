@@ -1,0 +1,10 @@
+{
+  "TP permission": "atp.tp",
+  "TP Players to you permission": "atp.tp2",
+  "Allow TP to sleepers": "atp.sleeper",
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 3
+  }
+}

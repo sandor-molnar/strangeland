@@ -1,0 +1,150 @@
+{
+  "Version": "1.4.1",
+  "Spawn Point": {
+    "Maximum Attempts To Find Spawn Points": 1500,
+    "Safe Area Radius": 3.0,
+    "Entity Detection Radius": 25.0,
+    "Player Detection Radius": 25.0
+  },
+  "Automated Trap": {
+    "Maximum Traps To Spawn": 50,
+    "Destroy Revealed Trap After Minutes": 2,
+    "Replace Revealed Trap": true,
+    "Dummy Sleeping Bag": {
+      "Spawn Along": true,
+      "Spawn Proximity To Stash": 0.9,
+      "Spawn Chance": 50,
+      "Randomized Skin Chance": 40,
+      "Randomized Nice Name Chance": 60
+    }
+  },
+  "Violation": {
+    "Reset On Wipe": true,
+    "Can Teammate Ignore": false,
+    "Can Clanmate Ignore": false
+  },
+  "Moderation": {
+    "Automatic Ban": false,
+    "Violations Tolerance": 3,
+    "Ban Delay Seconds": 60,
+    "Ban Reason": "Cheat Detected!"
+  },
+  "Notification": {
+    "Prefix": "<color=#F2C94C>Automated Stash Trap</color>:",
+    "Enable Console Report": true
+  },
+  "Discord": {
+    "Post Into Discord": false,
+    "Webhook Url": "",
+    "Report Interval": 60.0,
+    "Message": "Cheater, cheater, pumpkin eater! Looks like someone's been caught breaking the rules!",
+    "Embed Color": "#FFFFFF",
+    "Embed Title": "A cheater has been spotted",
+    "Embed Footer": "",
+    "Embed Fields": [
+      {
+        "name": "Player Name",
+        "value": "$Player.Name",
+        "inline": true
+      },
+      {
+        "name": "Id",
+        "value": "$Player.Id",
+        "inline": true
+      },
+      {
+        "name": "Violations Count",
+        "value": "$Player.Violations",
+        "inline": true
+      },
+      {
+        "name": "Revealed Stash Type",
+        "value": "$Stash.Type",
+        "inline": true
+      },
+      {
+        "name": "Stash Id",
+        "value": "$Stash.Id",
+        "inline": true
+      },
+      {
+        "name": "Grid",
+        "value": "$Stash.Position.Grid",
+        "inline": true
+      },
+      {
+        "name": "Reveal Method",
+        "value": "$Stash.Reveal.Method",
+        "inline": false
+      },
+      {
+        "name": "Stash Owner Name",
+        "value": "$Stash.Owner.Name",
+        "inline": true
+      },
+      {
+        "name": "Stash Owner Id",
+        "value": "$Stash.Owner.Id",
+        "inline": true
+      },
+      {
+        "name": "Team Info",
+        "value": "$Player.Team",
+        "inline": false
+      },
+      {
+        "name": "Player Connection Time",
+        "value": "$Player.Connection.Time",
+        "inline": false
+      },
+      {
+        "name": "Server",
+        "value": "$Server.Name $Server.Address",
+        "inline": false
+      }
+    ]
+  },
+  "Stash Loot": {
+    "Minimum Loot Spawn Slots": 1,
+    "Maximum Loot Spawn Slots": 6,
+    "Spawn Chance As Blueprint": 10,
+    "Spawn Chance With Skin": 50,
+    "Spawn Chance As Damaged": 30,
+    "Minimum Condition Loss": 5.0,
+    "Maximum Condition Loss": 95.0,
+    "Spawn Chance As Repaired": 15,
+    "Spawn Chance As Broken": 5,
+    "Loot Table": [
+      {
+        "Short Name": "scrap",
+        "Minimum Spawn Amount": 31,
+        "Maximum Spawn Amount": 125
+      },
+      {
+        "Short Name": "metal.refined",
+        "Minimum Spawn Amount": 10,
+        "Maximum Spawn Amount": 40
+      },
+      {
+        "Short Name": "cloth",
+        "Minimum Spawn Amount": 50,
+        "Maximum Spawn Amount": 200
+      },
+      {
+        "Short Name": "cctv.camera",
+        "Minimum Spawn Amount": 1,
+        "Maximum Spawn Amount": 2
+      },
+      {
+        "Short Name": "riflebody",
+        "Minimum Spawn Amount": 1,
+        "Maximum Spawn Amount": 3
+      },
+      {
+        "Short Name": "techparts",
+        "Minimum Spawn Amount": 1,
+        "Maximum Spawn Amount": 6
+      }
+    ]
+  }
+}

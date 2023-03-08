@@ -1,0 +1,144 @@
+14:23 [Info] Loading Oxide Core v2.0.4050...
+14:23 [Info] Loading extensions...
+14:23 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+14:23 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+14:23 [Info] Loaded extension Rust v2.0.5757 by Oxide Team and Contributors
+14:23 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:23 [Info] Unity version: 2019.4.7f1
+14:23 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:23 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:23 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:23 [Info] Using Covalence provider for game 'Rust'
+14:23 [Info] Loading plugins...
+14:23 [Info] Loaded plugin Rust v2.0.5757 by Oxide Team and Contributors
+14:23 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:23 [Info] AdminRadar, AdvertMessages, AutomatedStashTraps, BetterLoot, BypassQueue, EntityOwner, GatherManager, LoadingMessages, MapNoteTeleport, NTeleportation, NoGiveNotices, PermissionsManager, Pop, RecyclerSpeed, StackSizeController, TeamInfo, TeamManager, TeamsLogger, TimeOfDay, Vanish, VendingInStock and Whitelist were compiled successfully in 0ms
+14:23 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+14:23 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+14:23 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+14:23 [Warning] [Automated Stash Traps] Validating configuration values...
+14:23 [Warning] [Automated Stash Traps] Configuration validation complete!
+14:23 [Info] Loaded plugin Automated Stash Traps v1.4.1 by Dana
+14:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:23 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:23 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+14:23 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+14:23 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+14:23 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+14:23 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+14:23 [Info] Loaded plugin NTeleportation v1.7.1 by nivex
+14:23 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+14:23 [Info] Loaded plugin PermissionsManager v2.0.7 by Steenamaroo
+14:23 [Info] Loaded plugin Pop v1.0.0 by SaSha
+14:23 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+14:23 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+14:23 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+14:23 [Info] Loaded plugin Team Info v0.1.7 by Lorddy
+14:23 [Info] Loaded plugin Team Manager v1.0.6 by Quantum
+14:23 [Info] Loaded plugin Teams Logger v1.5.1 by Ujiou
+14:23 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+14:23 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+14:23 [Info] Loaded plugin Vending In Stock v1.1.0 by AVOcoder / rostov114
+14:23 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+14:28 [Info] IP address from external API: 217.144.54.193
+14:28 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+14:28 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:28 [Info] [BetterLoot] Updating internals ...
+14:28 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 146ms
+14:29 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.1' took 187ms
+14:29 [Info] [BetterLoot] No stacked LootContainer found.
+14:29 [Info] [BetterLoot] Populated '560' supported containers.
+14:29 [Info] [Admin Radar] Cached 3449/68607 entities in 18.901181 seconds!
+14:33 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:43 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+14:53 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:03 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+15:13 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+15:23 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+15:33 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:43 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+15:53 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:03 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:13 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:23 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:33 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:43 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:53 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:03 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+17:13 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:23 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:33 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:43 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+17:53 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:03 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:13 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+18:23 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:33 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:43 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:53 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:03 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:13 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+19:23 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+19:33 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:43 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:53 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:03 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:13 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+20:22 [Error] Plugin filename QuickSmelt (1).cs must match the main class QuickSmelt (should be QuickSmelt.cs)
+20:22 [Error] Plugin filename UnburnableMeat (1).cs must match the main class UnburnableMeat (should be UnburnableMeat.cs)
+20:22 [Info] UnburnableMeat was compiled successfully in 2332ms
+20:22 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+20:22 [Info] QuickSmelt was compiled successfully in 428ms
+20:22 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 181ms
+20:22 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:23 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:23 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 214ms
+20:23 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+20:23 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 204ms
+20:23 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+20:28 [Info] ATP was compiled successfully in 2475ms
+20:28 [Info] [ATP] Configuration changes saved to ATP.json
+20:28 [Info] [ATP] Configuration appears to be outdated; updating and saving
+20:28 [Info] [ATP] Configuration changes saved to ATP.json
+20:28 [Info] Loaded plugin ATP v0.1.3 by mspeedie
+20:29 [Info] Unloaded plugin ATP v0.1.3 by mspeedie
+20:29 [Info] Loaded plugin ATP v0.1.3 by mspeedie
+20:31 [Error] Failed to call hook 'GroupsPM' on plugin 'PermissionsManager v2.0.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.PermissionsManager.GroupsPM (ConsoleSystem+Arg arg) [0x0000c] in <c4a2f65037614a06a437f5d70232cd73>:0 
+  at Oxide.Plugins.PermissionsManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x006c3] in <c4a2f65037614a06a437f5d70232cd73>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:31 [Error] Failed to call hook 'GroupsPM' on plugin 'PermissionsManager v2.0.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.PermissionsManager.GroupsPM (ConsoleSystem+Arg arg) [0x0000c] in <c4a2f65037614a06a437f5d70232cd73>:0 
+  at Oxide.Plugins.PermissionsManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x006c3] in <c4a2f65037614a06a437f5d70232cd73>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:31 [Error] Failed to call hook 'GroupsPM' on plugin 'PermissionsManager v2.0.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.PermissionsManager.GroupsPM (ConsoleSystem+Arg arg) [0x0000c] in <c4a2f65037614a06a437f5d70232cd73>:0 
+  at Oxide.Plugins.PermissionsManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x006c3] in <c4a2f65037614a06a437f5d70232cd73>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+20:33 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:43 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:53 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:03 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:13 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+21:23 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:33 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:43 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:53 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:03 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:13 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+22:23 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:33 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:43 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:53 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:03 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:13 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+23:23 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:33 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:43 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:53 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!

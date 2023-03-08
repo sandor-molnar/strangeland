@@ -1,0 +1,12 @@
+[2023-02-12 14:16:50] [02:16:50] INFO > Bumi: Opened the menu
+[2023-02-12 14:16:57] [02:16:57] INFO > Bumi: Hurt user ID 76561198988194773 for 25 points
+[2023-02-12 14:16:58] [02:16:58] INFO > Bumi: Hurt user ID 76561198988194773 for 25 points
+[2023-02-12 14:17:00] [02:17:00] INFO > Bumi: Healed user ID 76561198988194773 for 100 points
+[2023-02-12 14:17:01] [02:17:01] INFO > Bumi: Healed user ID 76561198988194773 for 0 points
+[2023-02-12 14:19:58] [02:19:58] INFO > Bumi: Opened the menu
+[2023-02-12 14:26:14] [02:26:14] INFO > Bumi: Opened the menu
+[2023-02-12 14:40:02] [02:40:02] INFO > Bumi: Opened the menu
+[2023-02-12 14:40:35] [02:40:35] INFO > Bumi: Killed user ID 76561198988194773
+[2023-02-12 14:40:36] [02:40:36] INFO > Bumi: Healed user ID 76561198988194773 for 0 points
+[2023-02-12 14:54:19] [02:54:19] INFO > Bumi: Opened the menu
+[2023-02-12 14:54:22] [02:54:22] INFO > Bumi: Healed user ID 76561198988194773 for 100 points

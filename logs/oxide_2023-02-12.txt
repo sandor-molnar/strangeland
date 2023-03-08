@@ -1,0 +1,215 @@
+14:08 [Info] AdminPanel was compiled successfully in 2055ms
+14:08 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+14:09 [Info] Player 'Bumi (76561198988194773)' granted permission 'adminpanel.autotoggle.admin'
+14:10 [Info] Player 'Bumi (76561198988194773)' granted permission 'adminpanel.allowed'
+14:10 [Info] Permission 'adminradar.allowed' doesn't exist
+14:10 [Info] Permission 'godmode.toggle' doesn't exist
+14:10 [Info] Permission 'vanish.use' doesn't exist
+14:10 [Info] Permission 'playeradministration.access.show' doesn't exist
+14:12 [Error] Plugin filename Vanish (1).cs must match the main class Vanish (should be Vanish.cs)
+14:12 [Warning] Ignored unexpected plugin compilation failure: Vanish (1)
+14:12 [Info] Vanish was compiled successfully in 2137ms
+14:12 [Warning] [Vanish] Configuration changes saved to Vanish.json
+14:12 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+14:13 [Error] Timed out waiting for plugin to be compiled: Vanish (1)
+14:13 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+14:15 [Info] PlayerAdministration was compiled successfully in 2133ms
+14:15 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+14:15 [Info] Permission 'playeradministration.protect.' doesn't exist
+14:15 [Info] Permission 'playeradministration.protect' doesn't exist
+14:15 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.show'
+14:15 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.kick'
+14:15 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.ban'
+14:15 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.kill'
+14:15 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.clearinventory'
+14:16 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.hurt'
+14:16 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.heal'
+14:16 [Info] Permission 'playeradministration.access.healmute' doesn't exist
+14:16 [Info] Permission 'playeradministration.acces.mute' doesn't exist
+14:16 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.mute'
+14:16 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.allowfreeze'
+14:16 [Info] Player 'Bumi (76561198988194773)' granted permission 'playeradministration.access.spectate'
+14:18 [Info] AdvertMessages was compiled successfully in 1965ms
+14:18 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+14:18 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+14:20 [Info] StackSizeController was compiled successfully in 2043ms
+14:20 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+14:20 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+14:20 [Info] [Stack Size Controller] Populating Individual Item Stack Sizes in configuration.
+14:20 [Info] GatherManager was compiled successfully in 512ms
+14:20 [Warning] [Gather Manager] New configuration file created.
+14:20 [Warning] [Gather Manager] Configuration file updated.
+14:20 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+14:21 [Info] TimeOfDay was compiled successfully in 285ms
+14:21 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+14:23 [Info] PermsUI was compiled successfully in 2000ms
+14:23 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+14:24 [Error] Plugin filename BetterLoot (1).cs must match the main class BetterLoot (should be BetterLoot.cs)
+14:24 [Info] BetterLoot was compiled successfully in 484ms
+14:24 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:24 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:24 [Info] [BetterLoot] No Blacklist found, creating new file...
+14:24 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+14:24 [Info] [BetterLoot] Exported 795 items to 'NamesList'
+14:24 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:24 [Info] [BetterLoot] Updating internals ...
+14:24 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:24 [Info] [BetterLoot] Removed 6 stacked LootContainer
+14:24 [Info] [BetterLoot] Populated '2492' supported containers.
+14:25 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:25 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:25 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+14:25 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:25 [Info] [BetterLoot] Updating internals ...
+14:25 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:25 [Info] [BetterLoot] No stacked LootContainer found.
+14:25 [Info] [BetterLoot] Populated '2496' supported containers.
+14:25 [Info] Player 'Bumi (76561198988194773)' granted permission 'permsui.use'
+14:28 [Info] [Advert Messages] Welcome to our server, have fun!
+14:38 [Info] [Advert Messages] Please treat everybody respectfully.
+14:41 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+14:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:56 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+14:56 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+14:56 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+14:56 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+14:56 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+14:56 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+14:56 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+14:56 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+14:56 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:57 [Info] Loading Oxide Core v2.0.4050...
+14:57 [Info] Loading extensions...
+14:57 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+14:57 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+14:57 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+14:57 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:57 [Info] Unity version: 2019.4.7f1
+14:57 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:57 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:57 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:57 [Info] Using Covalence provider for game 'Rust'
+14:57 [Info] Loading plugins...
+14:57 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+14:57 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:57 [Info] AdminPanel, AdvertMessages, BetterLoot, GatherManager, PlayerAdministration, StackSizeController, TimeOfDay and Vanish were compiled successfully in 0ms
+14:57 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+14:57 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+14:57 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+14:57 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:57 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:57 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+14:57 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+14:57 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+14:57 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+14:57 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+14:57 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+14:57 [Info] [Stack Size Controller] Adding new item rhib to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item rowboat to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item snowmobile to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item snowmobiletomaha to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item locomotive to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item wagon to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item metal.facemask.hockey to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item metal.facemask.icemask to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item hazmatsuit.arcticsuit to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item hazmatsuit.lumberjack to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item hazmatsuit_scientist_arctic to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item metal.plate.torso.icevest to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item chair.icethrone to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item electric.furnace to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item storageadaptor to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item industrial.combiner to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item industrial.conveyor to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item industrial.crafter to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item industrial.splitter to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item chocolate to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item hat.rabbitmask to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item skylantern to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.green to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.orange to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.purple to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.red to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item hat.tigermask to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item bluedogtags to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item dogtagneutral to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item reddogtags to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item attire.egg.suit to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item trophy to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item gingerbreadsuit to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item concretehatchet to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item concretepickaxe to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item lumberjack.hatchet to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item lumberjack.pickaxe to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item pipetool to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item spraycan to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item spraycandecal to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item weapon.mod.burstmodule to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item weapon.mod.extendedmags to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item rifle.ak.ice to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item grenade.flashbang to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item pistol.prototype17 to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item mace.baseballbat to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item torch.torch.skull to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item hmlmg to IndividualItemStackSize in configuration.
+14:57 [Info] [Stack Size Controller] Adding new item grenade.molotov to IndividualItemStackSize in configuration.
+14:59 [Info] IP address from external API: 217.144.54.193
+14:59 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+14:59 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:59 [Info] [BetterLoot] Updating internals ...
+14:59 [Info] [BetterLoot] No stacked LootContainer found.
+14:59 [Info] [BetterLoot] Populated '222' supported containers.
+15:07 [Info] [Advert Messages] Welcome to our server, have fun!
+15:17 [Info] [Advert Messages] Please treat everybody respectfully.
+15:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:37 [Info] [Advert Messages] Welcome to our server, have fun!
+15:47 [Info] [Advert Messages] Please treat everybody respectfully.
+15:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:07 [Info] [Advert Messages] Welcome to our server, have fun!
+16:17 [Info] [Advert Messages] Please treat everybody respectfully.
+16:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:37 [Info] [Advert Messages] Welcome to our server, have fun!
+16:47 [Info] [Advert Messages] Please treat everybody respectfully.
+16:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:07 [Info] [Advert Messages] Welcome to our server, have fun!
+17:17 [Info] [Advert Messages] Please treat everybody respectfully.
+17:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:37 [Info] [Advert Messages] Welcome to our server, have fun!
+17:47 [Info] [Advert Messages] Please treat everybody respectfully.
+17:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:07 [Info] [Advert Messages] Welcome to our server, have fun!
+18:17 [Info] [Advert Messages] Please treat everybody respectfully.
+18:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:37 [Info] [Advert Messages] Welcome to our server, have fun!
+18:47 [Info] [Advert Messages] Please treat everybody respectfully.
+18:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:07 [Info] [Advert Messages] Welcome to our server, have fun!
+19:17 [Info] [Advert Messages] Please treat everybody respectfully.
+19:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:37 [Info] [Advert Messages] Welcome to our server, have fun!
+19:47 [Info] [Advert Messages] Please treat everybody respectfully.
+19:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:07 [Info] [Advert Messages] Welcome to our server, have fun!
+20:17 [Info] [Advert Messages] Please treat everybody respectfully.
+20:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:37 [Info] [Advert Messages] Welcome to our server, have fun!
+20:47 [Info] [Advert Messages] Please treat everybody respectfully.
+20:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:07 [Info] [Advert Messages] Welcome to our server, have fun!
+21:17 [Info] [Advert Messages] Please treat everybody respectfully.
+21:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:37 [Info] [Advert Messages] Welcome to our server, have fun!
+21:47 [Info] [Advert Messages] Please treat everybody respectfully.
+21:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:07 [Info] [Advert Messages] Welcome to our server, have fun!
+22:17 [Info] [Advert Messages] Please treat everybody respectfully.
+22:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:37 [Info] [Advert Messages] Welcome to our server, have fun!
+22:47 [Info] [Advert Messages] Please treat everybody respectfully.
+22:57 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:07 [Info] [Advert Messages] Welcome to our server, have fun!
+23:17 [Info] [Advert Messages] Please treat everybody respectfully.
+23:27 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:37 [Info] [Advert Messages] Welcome to our server, have fun!
+23:47 [Info] [Advert Messages] Please treat everybody respectfully.
+23:57 [Info] [Advert Messages] Cheating will result in a permanent ban.

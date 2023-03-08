@@ -1,0 +1,70 @@
+00:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+00:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:27 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+00:38 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 123ms
+00:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+00:57 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+00:57 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:13 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 107ms
+01:13 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 215ms
+01:13 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 206ms
+01:14 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 109ms
+01:14 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 103ms
+01:14 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 125ms
+01:14 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 116ms
+01:14 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took average 2321ms
+01:14 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.8' took 141ms
+01:38 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:38 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:39 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:40 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:40 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:41 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:42 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:42 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:44 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:45 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:45 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:46 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:47 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:48 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:49 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:57 [Warning] Calling 'OnEntityTakeDamage' on 'NTeleportation v1.7.1' took 1174ms
+01:58 [Warning] Calling 'OnEntityTakeDamage' on 'NTeleportation v1.7.1' took 1895ms
+01:59 [Warning] Calling 'OnEntityTakeDamage' on 'NTeleportation v1.7.1' took 888ms
+03:10 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 229ms
+03:11 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 2618ms
+03:11 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 2260ms
+03:11 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 2028ms
+03:11 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 2993ms
+03:11 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 1891ms
+03:11 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3275ms
+03:12 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3507ms
+03:12 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3016ms
+03:12 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 4261ms
+03:12 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3377ms
+03:12 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3577ms
+03:13 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3826ms
+03:13 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 5884ms
+03:13 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took average 37012ms
+03:14 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 5092ms
+03:14 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 5720ms
+03:14 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 5782ms
+03:15 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 3468ms
+03:15 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 5706ms
+03:15 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 4480ms
+03:16 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 4981ms
+03:16 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 9815ms
+03:17 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 4091ms
+03:18 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 12508ms
+03:20 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took average 49133ms
+03:21 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 10703ms
+03:22 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took average 0ms
+03:23 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 11406ms
+03:24 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took average 0ms
+03:26 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 22793ms
+03:27 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took average 0ms
+03:29 [Warning] Calling 'OnMaxStackable' on 'StackSizeController v4.1.1' took 51495ms

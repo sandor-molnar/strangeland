@@ -1,0 +1,15 @@
+{
+  "CooldownEnded": "Cooldown is now ended. You can teleport again.",
+  "GodModeEnded": "Godmode is now <color=#B22222>Disabled</color>.",
+  "Disabled": "<color=#B22222>Disabled</color>",
+  "Enabled": "<color=#228B22>Enabled</color>",
+  "MapNoteTeleport": "Teleporting to map marker is now {0}",
+  "MapNoteTeleportCooldown": "Teleporting to map marker Cooldown set to <color=#FFA500>{0}</color>s.",
+  "MapNoteTeleportCooldownLimit": "Teleporting to map marker Cooldown allowed is between <color=#FFA500>{0}</color>s and <color=#FFA500>{1}</color>s",
+  "MapNoteTeleportDead": "You can't teleport while being dead!",
+  "MapNoteTeleportMounted": "You can't teleport while seated!",
+  "MapNoteTeleportNotification": "Notification to chat is now {0}",
+  "NotAllowed": "You do not have permission to use this command!",
+  "Prefix": "<color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] ",
+  "Teleported": "Teleported to <color=#FFA500>{0}</color>. Godmode is now <color=#228B22>Enabled</color> for <color=#FFA500>{1}</color>s. Teleport is on Cooldown for <color=#FFA500>{2}</color>s."
+}

@@ -1,0 +1,41 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: BetterLoot.cs(348,27): warning CS0108: `Oxide.Plugins.BetterLoot.PluginConfig.ToJson()' hides inherited member `Oxide.Plugins.BetterLoot.SerializableConfiguration.ToJson()'. Use the new keyword if hiding was intended
+BetterLoot.cs(443,27): (Location of the symbol related to previous warning)
+BetterLoot.cs(349,47): warning CS0108: `Oxide.Plugins.BetterLoot.PluginConfig.ToDictionary()' hides inherited member `Oxide.Plugins.BetterLoot.SerializableConfiguration.ToDictionary()'. Use the new keyword if hiding was intended
+BetterLoot.cs(445,47): (Location of the symbol related to previous warning)
+TeamsLogger.cs(87,14): warning CS0114: `Oxide.Plugins.TeamsLogger.SaveConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.SaveConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+AdminRadar.cs(2032,34): warning CS1717: Assignment made to same variable; did you mean to assign something else?
+MapNoteTeleport.cs(262,17): warning CS0219: The variable `playerData' is assigned but its value is never used
+MapNoteTeleport.cs(357,13): warning CS0162: Unreachable code detected
+NTeleportation.cs(4801,25): warning CS0219: The variable `num' is assigned but its value is never used
+PermissionsManager.cs(425,24): warning CS0219: The variable `granted' is assigned but its value is never used
+PermissionsManager.cs(479,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+PermissionsManager.cs(509,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+PermissionsManager.cs(811,17): warning CS0219: The variable `id' is assigned but its value is never used
+PermissionsManager.cs(1088,26): warning CS0219: The variable `perms' is assigned but its value is never used
+PermissionsManager.cs(1234,21): warning CS0219: The variable `allperms' is assigned but its value is never used
+PermissionsManager.cs(1240,21): warning CS0219: The variable `permissions' is assigned but its value is never used
+AdminRadar.cs(109,22): warning CS0414: The private field `Oxide.Plugins.AdminRadar.init' is assigned but its value is never used
+AdminRadar.cs(99,42): warning CS0649: Field `Oxide.Plugins.AdminRadar.DiscordMessages' is never assigned to, and will always have its default value `null'
+AdminRadar.cs(1141,30): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Texts.color' is never assigned to, and will always have its default value
+AdminRadar.cs(1142,32): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Texts.position' is never assigned to, and will always have its default value
+AdminRadar.cs(1143,31): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Texts.text' is never assigned to, and will always have its default value `null'
+AdminRadar.cs(1148,30): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Arrows.color' is never assigned to, and will always have its default value
+AdminRadar.cs(1149,32): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Arrows.from' is never assigned to, and will always have its default value
+AdminRadar.cs(1150,32): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Arrows.to' is never assigned to, and will always have its default value
+AdminRadar.cs(1151,30): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Arrows.size' is never assigned to, and will always have its default value `0'
+AdminRadar.cs(1156,30): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Boxes.color' is never assigned to, and will always have its default value
+AdminRadar.cs(1157,32): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Boxes.position' is never assigned to, and will always have its default value
+AdminRadar.cs(1158,30): warning CS0649: Field `Oxide.Plugins.AdminRadar.Radar.Boxes.size' is never assigned to, and will always have its default value `0'
+NTeleportation.cs(74,35): warning CS0169: The private field `Oxide.Plugins.NTeleportation.dataConvert' is never used
+PermissionsManager.cs(958,25): warning CS0649: Field `Oxide.Plugins.PermissionsManager.MySQL.useMySQL' is never assigned to, and will always have its default value `false'
+StackSizeController.cs(20,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.GetToDaChoppa' is never assigned to, and will always have its default value `null'
+StackSizeController.cs(20,40): warning CS0649: Field `Oxide.Plugins.StackSizeController.VehicleVendorOptions' is never assigned to, and will always have its default value `null'
+StackSizeController.cs(80,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.Configuration.HidePrefixWithPluginNameInMessages' is never assigned to, and will always have its default value `false'
+
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown

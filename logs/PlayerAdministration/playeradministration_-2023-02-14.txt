@@ -1,0 +1,9 @@
+[2023-02-14 13:32:01] [01:32:01] INFO > Bumi: Opened the menu
+[2023-02-14 13:32:05] [01:32:05] INFO > Bumi: Healed user ID 76561198988194773 for 0 points
+[2023-02-14 13:32:05] [01:32:05] INFO > Bumi: Healed user ID 76561198988194773 for 100 points
+[2023-02-14 13:36:38] [01:36:38] INFO > Bumi: Opened the menu
+[2023-02-14 13:36:41] [01:36:41] INFO > Bumi: Healed user ID 76561198988194773 for 100 points
+[2023-02-14 13:36:41] [01:36:41] INFO > Bumi: Healed user ID 76561198988194773 for 0 points
+[2023-02-14 13:36:55] [01:36:55] INFO > Bumi: Opened the menu
+[2023-02-14 13:37:18] [01:37:18] INFO > Bumi: Opened the menu
+[2023-02-14 13:37:34] [01:37:34] INFO > Bumi: Opened the menu

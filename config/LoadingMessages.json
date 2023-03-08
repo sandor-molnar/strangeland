@@ -1,0 +1,23 @@
+{
+  "Text Display Frequency (Seconds)": 0.3,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 3.0,
+  "Messages": [
+    {
+      "Top Status": "<color=#E74C3C>STRANGELAND.EU</color>",
+      "Bottom Status": "<color=#ECF0F1>Loading...</color>"
+    }
+  ],
+  "Enable Queue Messages": true,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=#E74C3C>You're in queue...</color>",
+      "Bottom Status": "<color=#9cf>{AHEAD} ahead, {BEHIND} behind.</color>"
+    }
+  ],
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#E74C3C>STRANGELAND.EU</color>",
+    "Bottom Status": "<color=#ECF0F1>Entering game...</color>"
+  }
+}

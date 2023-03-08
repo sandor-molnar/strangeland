@@ -1,0 +1,851 @@
+{
+  "Violations": {
+    "76561198988194773": 5,
+    "76561198377295434": 3
+  },
+  "Automated Traps": {
+    "10605351": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605351,
+        "Position": {
+          "x": -1111.0,
+          "y": 27.2518387,
+          "z": -325.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605357,
+        "Nice Name": "cindie",
+        "Skin Id": 2581600314,
+        "Position": {
+          "x": -1109.91235,
+          "y": 27.0403633,
+          "z": -323.689423
+        }
+      }
+    },
+    "10605358": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605358,
+        "Position": {
+          "x": 912.0,
+          "y": 34.551384,
+          "z": 160.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605366": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605366,
+        "Position": {
+          "x": -1003.0,
+          "y": 45.75598,
+          "z": -389.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605370": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605370,
+        "Position": {
+          "x": 143.0,
+          "y": 44.4428329,
+          "z": -877.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605377": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605377,
+        "Position": {
+          "x": -1382.0,
+          "y": 11.6446018,
+          "z": -1356.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605383,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": -1380.49939,
+          "y": 11.6701717,
+          "z": -1354.11731
+        }
+      }
+    },
+    "10605384": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605384,
+        "Position": {
+          "x": 996.0,
+          "y": 43.74945,
+          "z": 296.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605389,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": 993.933044,
+          "y": 43.4444542,
+          "z": 295.5792
+        }
+      }
+    },
+    "10605390": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605390,
+        "Position": {
+          "x": 1267.0,
+          "y": 17.2463055,
+          "z": 291.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605398,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 1228238024,
+        "Position": {
+          "x": 1266.54224,
+          "y": 18.2746658,
+          "z": 289.0862
+        }
+      }
+    },
+    "10605399": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605399,
+        "Position": {
+          "x": -1219.0,
+          "y": 8.766174,
+          "z": 639.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605403": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605403,
+        "Position": {
+          "x": 389.0,
+          "y": 64.05276,
+          "z": 809.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605407": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605407,
+        "Position": {
+          "x": -987.0,
+          "y": 26.3981228,
+          "z": -304.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605413,
+        "Nice Name": "sally",
+        "Skin Id": 1858936313,
+        "Position": {
+          "x": -986.873047,
+          "y": 26.4260769,
+          "z": -304.6208
+        }
+      }
+    },
+    "10605414": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605414,
+        "Position": {
+          "x": -966.0,
+          "y": 63.8123169,
+          "z": 217.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605417": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605417,
+        "Position": {
+          "x": 680.0,
+          "y": 34.1258659,
+          "z": 452.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605422": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605422,
+        "Position": {
+          "x": 772.0,
+          "y": 22.6938725,
+          "z": -211.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605426,
+        "Nice Name": "alene",
+        "Skin Id": 0,
+        "Position": {
+          "x": 774.368958,
+          "y": 22.1296539,
+          "z": -210.893585
+        }
+      }
+    },
+    "10605427": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605427,
+        "Position": {
+          "x": 339.0,
+          "y": 29.9063911,
+          "z": 1197.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605434": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605434,
+        "Position": {
+          "x": 855.0,
+          "y": 58.8317528,
+          "z": 819.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605440": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605440,
+        "Position": {
+          "x": -556.0,
+          "y": 12.23439,
+          "z": 1224.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605447": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605447,
+        "Position": {
+          "x": 1035.0,
+          "y": 30.1218624,
+          "z": -1188.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605452,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": 1035.512,
+          "y": 29.6279182,
+          "z": -1189.86816
+        }
+      }
+    },
+    "10605453": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605453,
+        "Position": {
+          "x": -1333.0,
+          "y": 2.35104561,
+          "z": -771.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605457,
+        "Nice Name": "marcelle",
+        "Skin Id": 0,
+        "Position": {
+          "x": -1332.33313,
+          "y": 2.406299,
+          "z": -770.569458
+        }
+      }
+    },
+    "10605458": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605458,
+        "Position": {
+          "x": 1222.0,
+          "y": 7.13431835,
+          "z": -1344.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605463,
+        "Nice Name": "shera",
+        "Skin Id": 1886931973,
+        "Position": {
+          "x": 1221.36267,
+          "y": 7.320106,
+          "z": -1345.33362
+        }
+      }
+    },
+    "10605464": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605464,
+        "Position": {
+          "x": -1078.0,
+          "y": 29.9720173,
+          "z": 353.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605471,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": -1077.4635,
+          "y": 30.0564175,
+          "z": 352.587555
+        }
+      }
+    },
+    "10605472": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605472,
+        "Position": {
+          "x": -1005.0,
+          "y": 14.9713755,
+          "z": 775.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605479,
+        "Nice Name": "tempie",
+        "Skin Id": 0,
+        "Position": {
+          "x": -1006.66577,
+          "y": 15.004694,
+          "z": 774.8144
+        }
+      }
+    },
+    "10605480": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605480,
+        "Position": {
+          "x": -837.0,
+          "y": 40.9468422,
+          "z": 1034.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605487,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": -835.557068,
+          "y": 40.48592,
+          "z": 1034.13232
+        }
+      }
+    },
+    "10605488": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605488,
+        "Position": {
+          "x": 142.0,
+          "y": 19.4743271,
+          "z": -389.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605494,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": 140.460663,
+          "y": 19.3651314,
+          "z": -389.4705
+        }
+      }
+    },
+    "10605495": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605495,
+        "Position": {
+          "x": -621.0,
+          "y": 0.125467777,
+          "z": -1287.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605499,
+        "Nice Name": "victor",
+        "Skin Id": 1165339422,
+        "Position": {
+          "x": -622.428955,
+          "y": 0.2219677,
+          "z": -1284.892
+        }
+      }
+    },
+    "10605500": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605500,
+        "Position": {
+          "x": -98.0,
+          "y": 26.15559,
+          "z": 355.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605507": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605507,
+        "Position": {
+          "x": 1447.0,
+          "y": 19.1977615,
+          "z": -1543.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605510": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605510,
+        "Position": {
+          "x": 1323.0,
+          "y": 11.8625164,
+          "z": -1340.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605514": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605514,
+        "Position": {
+          "x": 896.0,
+          "y": 13.9305,
+          "z": -227.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605517,
+        "Nice Name": "gaylord",
+        "Skin Id": 0,
+        "Position": {
+          "x": 897.005066,
+          "y": 13.9262085,
+          "z": -226.21199
+        }
+      }
+    },
+    "10605518": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605518,
+        "Position": {
+          "x": 1219.0,
+          "y": 9.30792,
+          "z": -1066.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605521,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 2659996023,
+        "Position": {
+          "x": 1219.11169,
+          "y": 9.168506,
+          "z": -1065.31909
+        }
+      }
+    },
+    "10605522": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605522,
+        "Position": {
+          "x": -351.0,
+          "y": 8.815468,
+          "z": -1028.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605528,
+        "Nice Name": "fannie",
+        "Skin Id": 0,
+        "Position": {
+          "x": -350.246124,
+          "y": 8.793116,
+          "z": -1026.02051
+        }
+      }
+    },
+    "10605529": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605529,
+        "Position": {
+          "x": 882.0,
+          "y": 24.3884315,
+          "z": 51.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605532,
+        "Nice Name": "laureen",
+        "Skin Id": 0,
+        "Position": {
+          "x": 883.538269,
+          "y": 24.2537861,
+          "z": 50.9700165
+        }
+      }
+    },
+    "10605533": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605533,
+        "Position": {
+          "x": 1163.0,
+          "y": 17.6297417,
+          "z": -1079.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605540,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 1586749954,
+        "Position": {
+          "x": 1162.56567,
+          "y": 17.59565,
+          "z": -1078.60815
+        }
+      }
+    },
+    "10605541": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605541,
+        "Position": {
+          "x": 89.0,
+          "y": 55.8339958,
+          "z": -894.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605549": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605549,
+        "Position": {
+          "x": 728.0,
+          "y": 44.2144279,
+          "z": -970.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605553,
+        "Nice Name": "many",
+        "Skin Id": 0,
+        "Position": {
+          "x": 728.4456,
+          "y": 43.95127,
+          "z": -972.3362
+        }
+      }
+    },
+    "10605554": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605554,
+        "Position": {
+          "x": 246.0,
+          "y": 22.5604782,
+          "z": -910.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605557": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605557,
+        "Position": {
+          "x": 1000.0,
+          "y": 97.04202,
+          "z": 568.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605564": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605564,
+        "Position": {
+          "x": 928.0,
+          "y": 62.64889,
+          "z": 446.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605570": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605570,
+        "Position": {
+          "x": -820.0,
+          "y": 36.9890327,
+          "z": -1031.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605574,
+        "Nice Name": "phylicia",
+        "Skin Id": 0,
+        "Position": {
+          "x": -821.6647,
+          "y": 37.4210472,
+          "z": -1032.82593
+        }
+      }
+    },
+    "10605575": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605575,
+        "Position": {
+          "x": 1214.0,
+          "y": 24.8794556,
+          "z": 252.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605582": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605582,
+        "Position": {
+          "x": 69.0,
+          "y": 48.1747971,
+          "z": -720.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605588,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 919353105,
+        "Position": {
+          "x": 67.01179,
+          "y": 47.8476868,
+          "z": -721.0411
+        }
+      }
+    },
+    "10605589": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605589,
+        "Position": {
+          "x": 665.0,
+          "y": 25.6421566,
+          "z": -35.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605595,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 2834082713,
+        "Position": {
+          "x": 663.8109,
+          "y": 25.6533031,
+          "z": -32.74201
+        }
+      }
+    },
+    "10605596": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605596,
+        "Position": {
+          "x": 1347.0,
+          "y": 37.411808,
+          "z": 86.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605601,
+        "Nice Name": "ashley",
+        "Skin Id": 0,
+        "Position": {
+          "x": 1348.31079,
+          "y": 37.4581833,
+          "z": 86.9646149
+        }
+      }
+    },
+    "10605602": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605602,
+        "Position": {
+          "x": 1009.0,
+          "y": 107.8406,
+          "z": 632.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605609": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605609,
+        "Position": {
+          "x": -1059.0,
+          "y": 34.11859,
+          "z": 355.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605615": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605615,
+        "Position": {
+          "x": 79.0,
+          "y": 50.2169724,
+          "z": 1140.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605620,
+        "Nice Name": "kassandra",
+        "Skin Id": 0,
+        "Position": {
+          "x": 76.60456,
+          "y": 49.42268,
+          "z": 1140.35608
+        }
+      }
+    },
+    "10605621": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605621,
+        "Position": {
+          "x": 1408.0,
+          "y": 3.142476,
+          "z": 323.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605629,
+        "Nice Name": "Unnamed Bag",
+        "Skin Id": 0,
+        "Position": {
+          "x": 1409.38489,
+          "y": 3.066659,
+          "z": 322.430847
+        }
+      }
+    },
+    "10605630": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605630,
+        "Position": {
+          "x": 917.0,
+          "y": 52.6525955,
+          "z": -795.0
+        }
+      },
+      "Dummy Sleeping Bag": {
+        "Id": 10605635,
+        "Nice Name": "len",
+        "Skin Id": 0,
+        "Position": {
+          "x": 916.1266,
+          "y": 52.81776,
+          "z": -794.4863
+        }
+      }
+    },
+    "10605636": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605636,
+        "Position": {
+          "x": 1066.0,
+          "y": 26.7860889,
+          "z": -170.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605641": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605641,
+        "Position": {
+          "x": -783.0,
+          "y": 34.5874443,
+          "z": 401.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    },
+    "10605646": {
+      "Dummy Stash": {
+        "Hidden": true,
+        "Id": 10605646,
+        "Position": {
+          "x": 1242.0,
+          "y": 0.317573547,
+          "z": 499.0
+        }
+      },
+      "Dummy Sleeping Bag": null
+    }
+  }
+}

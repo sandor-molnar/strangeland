@@ -1,0 +1,7 @@
+[2023-02-13 12:54:04] [12:54:04] INFO > サシャ: Opened the menu
+[2023-02-13 13:02:19] [01:02:19] ERROR > サシャ: Tried to execute a command requiring the '' permission
+[2023-02-13 13:02:31] [01:02:31] INFO > サシャ: Opened the menu
+[2023-02-13 13:02:59] [01:02:59] INFO > サシャ: Healed user ID 76561198377295434 for 25 points
+[2023-02-13 13:03:01] [01:03:01] INFO > サシャ: Healed user ID 76561198377295434 for 25 points
+[2023-02-13 13:03:06] [01:03:06] INFO > サシャ: Recovered the metabolism of user ID 76561198377295434
+[2023-02-13 13:03:33] [01:03:33] INFO > サシャ: Opened the menu

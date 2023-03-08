@@ -1,0 +1,1510 @@
+00:01 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+00:21 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:31 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+00:41 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:51 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:01 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:21 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:31 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:41 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:51 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+02:01 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+02:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:21 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:31 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+02:41 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+02:51 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+03:01 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+03:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:21 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:31 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+03:41 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+03:47 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+03:47 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Info] AdminPanel, PlayerAdministration, Vanish, BetterLoot, StackSizeController, GatherManager and TimeOfDay were compiled successfully in 2801ms
+03:47 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+03:47 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+03:47 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+03:47 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 129ms
+03:47 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+03:47 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+03:47 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+03:47 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 107ms
+03:47 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+03:47 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+03:47 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+03:47 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+03:47 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+03:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+03:47 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+03:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+03:47 [Info] [BetterLoot] Updating internals ...
+03:47 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+03:47 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+03:47 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+03:47 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 104ms
+03:47 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+03:47 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+03:47 [Info] [BetterLoot] Removed 9 stacked LootContainer
+03:47 [Info] [BetterLoot] Populated '2466' supported containers.
+03:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+04:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+04:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+04:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+04:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+05:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+05:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+05:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+05:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+05:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+05:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+06:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+06:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+06:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+06:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+06:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+06:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+07:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+07:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+07:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+07:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+07:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+07:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+08:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+08:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+08:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+08:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+08:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+08:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+09:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+09:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+09:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+09:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+09:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+09:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+10:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+10:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+10:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+10:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+10:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+10:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+11:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+11:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+11:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+11:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+11:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+11:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+12:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+12:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+12:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+12:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+12:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+12:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+13:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+13:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+13:20 [Info] BetterLoot was compiled successfully in 2078ms
+13:20 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:20 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:20 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+13:20 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:20 [Info] [BetterLoot] Updating internals ...
+13:20 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:20 [Info] [BetterLoot] Removed 7 stacked LootContainer
+13:20 [Info] [BetterLoot] Populated '2540' supported containers.
+13:22 [Info] Player 'Bumi (76561198988194773)' granted permission 'stacksizecontroller.itemsearch'
+13:23 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+13:24 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:24 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:25 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:25 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:26 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:26 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+13:27 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:27 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:28 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:28 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:29 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:29 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:29 [Warning] [BetterLoot] JSON error in 'LootTables' > Line: 2862 | LootTables['assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab'].Scrap
+13:29 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:29 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:29 [Info] [BetterLoot] Updating internals ...
+13:29 [Warning] Calling 'OnServerInitialized' on 'BetterLoot v3.5.8' took 111ms
+13:29 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:29 [Info] [BetterLoot] No stacked LootContainer found.
+13:29 [Error] Exception while calling NextTick callback (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.BetterLoot.PopulateContainer (LootContainer container) [0x0000c] in <3550c6ce701642f2937596a2af9137d7>:0 
+  at Oxide.Plugins.BetterLoot.<UpdateInternals>m__3 () [0x000c6] in <3550c6ce701642f2937596a2af9137d7>:0 
+  at Oxide.Core.OxideMod.OnFrame (System.Single delta) [0x00051] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+13:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:29 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:29 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:30 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:30 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:31 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:31 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:31 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+13:31 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:31 [Info] [BetterLoot] Updating internals ...
+13:31 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:31 [Info] [BetterLoot] Removed 3 stacked LootContainer
+13:31 [Info] [BetterLoot] Populated '2454' supported containers.
+13:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:31 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:32 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:32 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:33 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:33 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:34 [Info] Player 'SaSha (76561198377295434)' granted permission 'vanish.allow'
+13:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:34 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:34 [Info] Group 'moderatedid' doesn't exist
+13:34 [Info] Group 'admin' already has permission 'vanish.allow'
+13:34 [Info] Group 'owner' doesn't exist
+13:34 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:35 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:35 [Info] Group 'admin' already has permission 'vanish.unlock'
+13:35 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:36 [Info] Group 'admin' revoked permission 'vanish.unlock'
+13:36 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:36 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+13:37 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:37 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:37 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+13:37 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:37 [Info] [BetterLoot] Updating internals ...
+13:37 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:37 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+13:37 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+13:37 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+13:37 [Info] [BetterLoot] No stacked LootContainer found.
+13:37 [Info] [BetterLoot] Populated '2496' supported containers.
+13:37 [Info] Vanish, GatherManager, PlayerAdministration, TimeOfDay and StackSizeController were compiled successfully in 2016ms
+13:37 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:37 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:37 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+13:37 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+13:37 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:37 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+13:37 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:37 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:37 [Info] Loaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+13:37 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+13:37 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:37 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+13:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:37 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:37 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:38 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:38 [Info] Permission 'vanish.allowed' doesn't exist
+13:38 [Info] Player 'SaSha' does not have permission 'vanish.allowed'
+13:38 [Info] Permission 'vanish.allowed' doesn't exist
+13:38 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:38 [Info] Player 'SaSha (76561198377295434)' granted permission 'vanish.allow'
+13:38 [Info] Vanish was compiled successfully in 1883ms
+13:38 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:38 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:39 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:39 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:40 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:40 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:40 [Info] Player 'SaSha (76561198377295434)' granted permission 'vanish.allow'
+13:41 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:41 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:41 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:41 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:42 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:42 [Info] Player 'SaSha (76561198377295434)' granted permission 'vanish.unlock'
+13:42 [Info] Player 'SaSha (76561198377295434)' granted permission 'vanish.damage'
+13:42 [Info] Permission 'vanish.permanentű' doesn't exist
+13:42 [Info] Player 'SaSha (76561198377295434)' granted permission 'vanish.permanent'
+13:42 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:42 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:42 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:43 [Info] Player 'Bumi(76561198988194773)' removed from group 'admin'
+13:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:43 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:43 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+13:43 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+13:43 [Info] Unloaded plugin PlayerAdministration v1.6.8 by ThibmoRozier
+13:43 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:43 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+13:43 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:43 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:44 [Info] Loading Oxide Core v2.0.4050...
+13:44 [Info] Loading extensions...
+13:44 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+13:44 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+13:44 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+13:44 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+13:44 [Info] Unity version: 2019.4.7f1
+13:44 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+13:44 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:44 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+13:44 [Info] Using Covalence provider for game 'Rust'
+13:44 [Info] Loading plugins...
+13:44 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+13:44 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+13:44 [Info] AdvertMessages, BetterLoot, GatherManager, StackSizeController, TimeOfDay and Vanish were compiled successfully in 0ms
+13:44 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+13:44 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+13:44 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:44 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:44 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:44 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:44 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+13:44 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+13:44 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:46 [Info] IP address from external API: 217.144.54.193
+13:46 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+13:46 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:46 [Info] [BetterLoot] Updating internals ...
+13:46 [Info] [BetterLoot] No stacked LootContainer found.
+13:46 [Info] [BetterLoot] Populated '154' supported containers.
+13:47 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:47 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:48 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:48 [Info] Permission 'vanish.allowed' doesn't exist
+13:48 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+13:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:48 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:48 [Info] Vanish was compiled successfully in 1940ms
+13:48 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:48 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:49 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:49 [Info] Group 'admin' revoked permission 'vanish.allow'
+13:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:49 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:49 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+13:49 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:49 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:50 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:50 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:50 [Info] Player 'Bumi (76561198988194773)' revoked permission 'vanish.permanent'
+13:50 [Info] Player 'Bumi (76561198988194773)' revoked permission 'vanish.allow'
+13:50 [Info] Player 'Bumi' does not have permission 'vanish.doorlock'
+13:51 [Info] Player 'Bumi' does not have permission 'vanish.unlock'
+13:51 [Info] Player 'Bumi' does not have permission 'vanish.unlock'
+13:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:51 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:51 [Info] Player 'Bumi (76561198988194773)' revoked permission 'vanish.damage'
+13:51 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+13:51 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:51 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:51 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:52 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:52 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:52 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+13:52 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:52 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:53 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:53 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:54 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:54 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:54 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:54 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+13:54 [Error] Could not load plugin 'Vnish' (no plugin found with that file name)
+13:54 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:54 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:54 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:54 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+13:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:55 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:55 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:56 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:56 [Info] Player 'Bumi (76561198988194773)' granted permission 'vanish.allow'
+13:56 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:56 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:56 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:57 [Info] Group 'owner' doesn't exist
+13:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:57 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:57 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:57 [Info] Player 'Bumi' does not have permission 'vanish.permanent'
+13:57 [Info] Player 'Bumi' does not have permission 'vanish.permanent'
+13:58 [Info] Vanish was compiled successfully in 1920ms
+13:58 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:58 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:58 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:58 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:58 [Info] AdvertMessages, BetterLoot, GatherManager, StackSizeController and TimeOfDay were compiled successfully in 459ms
+13:58 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+13:58 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:58 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+13:58 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+13:58 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+13:58 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+13:58 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+13:58 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+13:58 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:58 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+13:58 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+13:58 [Info] [BetterLoot] Updating internals ...
+13:58 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+13:58 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+13:58 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+13:58 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+13:58 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+13:58 [Info] [BetterLoot] Removed 5 stacked LootContainer
+13:58 [Info] [BetterLoot] Populated '1716' supported containers.
+13:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:58 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:58 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+13:58 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+13:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:58 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:59 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+13:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+14:08 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:18 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+14:28 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+14:38 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+14:48 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:58 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+15:08 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:18 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+15:28 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+15:38 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+15:48 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:54 [Info] Whitelist was compiled successfully in 1978ms
+15:54 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:54 [Info] Usage: oxide.reload *|<pluginname>+
+15:54 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+15:54 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+15:54 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+15:54 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+15:54 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+15:54 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:54 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:54 [Info] TimeOfDay, StackSizeController, GatherManager and BetterLoot were compiled successfully in 428ms
+15:54 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:54 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:54 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:54 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:54 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:54 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:54 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:54 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:54 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:54 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+15:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:54 [Info] [BetterLoot] Updating internals ...
+15:54 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:54 [Info] [BetterLoot] Removed 10 stacked LootContainer
+15:54 [Info] [BetterLoot] Populated '2440' supported containers.
+15:54 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:54 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:54 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+15:54 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+15:54 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:54 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:54 [Info] BetterLoot, GatherManager, StackSizeController and AdvertMessages were compiled successfully in 312ms
+15:54 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:54 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:54 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:54 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:54 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+15:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:54 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+15:54 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:54 [Info] [BetterLoot] Updating internals ...
+15:54 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:54 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:54 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:54 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:54 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+15:54 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+15:54 [Info] [BetterLoot] No stacked LootContainer found.
+15:54 [Info] [BetterLoot] Populated '2430' supported containers.
+15:55 [Info] Whitelist was compiled successfully in 1898ms
+15:55 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:55 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] Whitelist was compiled successfully in 197ms
+15:56 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] Whitelist was compiled successfully in 183ms
+15:56 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:56 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:56 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+15:56 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:56 [Info] [BetterLoot] Updating internals ...
+15:56 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:56 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+15:56 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+15:56 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:56 [Info] [BetterLoot] No stacked LootContainer found.
+15:56 [Info] [BetterLoot] Populated '2384' supported containers.
+15:56 [Info] AdvertMessages, StackSizeController, GatherManager and TimeOfDay were compiled successfully in 478ms
+15:56 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+15:56 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:56 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:56 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:56 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:56 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+15:56 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+15:56 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:56 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:56 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:56 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:57 [Info] Whitelist was compiled successfully in 230ms
+15:57 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:57 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:57 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+15:57 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+15:57 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+15:57 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+15:57 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+15:57 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:57 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:57 [Info] TimeOfDay, GatherManager, StackSizeController and BetterLoot were compiled successfully in 433ms
+15:57 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:57 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:57 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:57 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:57 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:57 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:57 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:57 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:57 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:57 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:57 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+15:57 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:57 [Info] [BetterLoot] Updating internals ...
+15:57 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:57 [Info] [BetterLoot] Removed 3 stacked LootContainer
+15:57 [Info] [BetterLoot] Populated '2382' supported containers.
+15:58 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:58 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+15:58 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+15:58 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+15:58 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:58 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+15:58 [Info] BetterLoot, StackSizeController, GatherManager and AdvertMessages were compiled successfully in 302ms
+15:58 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:58 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+15:58 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:58 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+15:58 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+15:58 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:58 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+15:58 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+15:58 [Info] [BetterLoot] Updating internals ...
+15:58 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+15:58 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+15:58 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+15:58 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+15:58 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+15:58 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+15:58 [Info] [BetterLoot] No stacked LootContainer found.
+15:58 [Info] [BetterLoot] Populated '2384' supported containers.
+15:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+15:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:05 [Info] Vanish was compiled successfully in 2135ms
+16:05 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:05 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:06 [Info] Vanish was compiled successfully in 252ms
+16:06 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:06 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:06 [Warning] [DEBUG] Reload requested for plugin which is already loading: Vanish
+16:06 [Info] Vanish was compiled successfully in 254ms
+16:06 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:06 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:06 [Info] Vanish was compiled successfully in 180ms
+16:06 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:06 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:07 [Error] Could not load plugin 'vanish' (no plugin found with that file name)
+16:07 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:07 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:08 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:09 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:09 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:09 [Info] Vanish was compiled successfully in 1941ms
+16:09 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:09 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:10 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+16:10 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+16:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:10 [Info] AdvertMessages was compiled successfully in 338ms
+16:10 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:10 [Info] [Advert Messages] Advert Messages is showing adverts every 0.1 minutes.
+16:10 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:10 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:11 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:11 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:11 [Info] [Advert Messages] Advert Messages is showing adverts every 0.05 minutes.
+16:11 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:11 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:11 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:11 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:11 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:11 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:11 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:11 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:11 [Info] AdvertMessages was compiled successfully in 239ms
+16:11 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:11 [Info] [Advert Messages] Advert Messages is showing adverts every 0.05 minutes.
+16:11 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:11 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:11 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:11 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:12 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:12 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:12 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:12 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:12 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:12 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:12 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:12 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:12 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+16:12 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+16:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:13 [Warning] [DEBUG] Load requested for plugin which is already loading: Pop
+16:13 [Info] Pop was compiled successfully in 1822ms
+16:13 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:13 [Info] Pop was compiled successfully in 198ms
+16:13 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:13 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:15 [Info] Pop was compiled successfully in 1801ms
+16:15 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:15 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:15 [Warning] [DEBUG] Reload requested for plugin which is already loading: Pop
+16:15 [Info] Pop was compiled successfully in 336ms
+16:15 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:15 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:16 [Info] Pop was compiled successfully in 201ms
+16:16 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:16 [Info] [Pop] test
+16:16 [Info] Pop was compiled successfully in 232ms
+16:16 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] [Pop] test
+16:16 [Info] [Pop] test
+16:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:16 [Info] Pop was compiled successfully in 207ms
+16:16 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] Pop was compiled successfully in 199ms
+16:16 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:16 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:17 [Info] Pop was compiled successfully in 314ms
+16:17 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:17 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:20 [Info] Pop was compiled successfully in 1882ms
+16:20 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:20 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:22 [Info] Pop was compiled successfully in 1927ms
+16:22 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:22 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:22 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:22 [Info] [Pop] ads
+16:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:22 [Warning] [DEBUG] Reload requested for plugin which is already loading: Pop
+16:22 [Error] Error while compiling: Pop.cs(26,39): error CS1955: The member `ListHashSet<BasePlayer>.Count' cannot be used as method or delegate
+16:22 [Info] [Pop] ads
+16:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:23 [Error] Error while compiling: Pop.cs(26,43): error CS1525: Unexpected symbol `;', expecting `)' or `,'
+16:23 [Info] [Pop] ads
+16:23 [Error] Error while compiling: Pop.cs(26,39): error CS1503: Argument `#1' cannot convert `int' expression to type `string'
+16:23 [Info] [Pop] ads
+16:24 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:24 [Error] Unable to load Pop. Pop.cs(26,39): error CS1503: Argument `#1' cannot convert `int' expression to type `string'
+16:24 [Info] Previous version of plugin failed to load: Pop
+16:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:24 [Error] Error while compiling: Pop.cs(26,39): error CS1503: Argument `#1' cannot convert `int' expression to type `string'
+16:24 [Error] Error while compiling: Pop.cs(27,39): error CS1503: Argument `#1' cannot convert `int' expression to type `string'
+16:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:24 [Warning] [DEBUG] Load requested for plugin which is already loading: Pop
+16:24 [Error] Error while compiling: Pop.cs(11,46): error CS1503: Argument `#1' cannot convert `int' expression to type `string'
+16:24 [Info] Pop was compiled successfully in 200ms
+16:24 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:24 [Info] [Pop] 1
+16:25 [Error] Error while compiling: Pop.cs(11,13): error CS1501: No overload for method `Puts' takes `0' arguments
+16:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:25 [Error] Error while compiling: Pop.cs(11,13): error CS1501: No overload for method `Puts' takes `0' arguments
+16:25 [Info] [Pop] 1
+16:25 [Info] [Pop] 1
+16:26 [Warning] [DEBUG] Reload requested for plugin which is already loading: Pop
+16:26 [Error] Error while compiling: Pop.cs(11,13): error CS1501: No overload for method `Puts' takes `0' arguments
+16:26 [Info] [Pop] 1
+16:26 [Info] [Pop] 1
+16:26 [Info] [Pop] 1
+16:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:26 [Info] Pop was compiled successfully in 366ms
+16:26 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:26 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:26 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:26 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:26 [Info] Pop was compiled successfully in 230ms
+16:26 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:26 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:32 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:33 [Info] Pop was compiled successfully in 1944ms
+16:33 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:33 [Info] Pop was compiled successfully in 182ms
+16:33 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Pop was compiled successfully in 207ms
+16:33 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:33 [Info] Pop was compiled successfully in 299ms
+16:33 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Pop was compiled successfully in 169ms
+16:33 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:33 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:34 [Error] Error while compiling: Pop.cs(18,16): error CS1525: Unexpected symbol `)'
+16:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:34 [Error] Error while compiling: Pop.cs(26,16): error CS1525: Unexpected symbol `)'
+16:34 [Error] Error while compiling: Pop.cs(26,16): error CS1525: Unexpected symbol `)'
+16:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:34 [Error] Error while compiling: Pop.cs(14,26): error CS0136: A local variable named `player' cannot be declared in this scope because it would give a different meaning to `player', which is already used in a `parent or current' scope to denote something else
+16:35 [Error] Error while compiling: Pop.cs(14,26): error CS0136: A local variable named `player' cannot be declared in this scope because it would give a different meaning to `player', which is already used in a `parent or current' scope to denote something else
+16:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:35 [Error] Error while compiling: Pop.cs(14,26): error CS0136: A local variable named `player' cannot be declared in this scope because it would give a different meaning to `player', which is already used in a `parent or current' scope to denote something else
+16:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:35 [Info] Pop was compiled successfully in 259ms
+16:35 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:35 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:35 [Info] Pop was compiled successfully in 198ms
+16:35 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:35 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:36 [Info] Pop was compiled successfully in 202ms
+16:36 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:36 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:36 [Info] Pop was compiled successfully in 319ms
+16:36 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:36 [Error] Failed to initialize plugin 'Pop v1.0.0' (FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.)
+  at System.Text.StringBuilder.AppendFormatHelper (System.IFormatProvider provider, System.String format, System.ParamsArray args) [0x000ff] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.String.FormatHelper (System.IFormatProvider provider, System.String format, System.ParamsArray args) [0x00023] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.String.Format (System.String format, System.Object arg0, System.Object arg1, System.Object arg2) [0x0000a] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.Pop.ShowPop () [0x0007c] in <fea47f2874484328a255745c4babcf92>:0 
+  at Oxide.Plugins.Pop.Init () [0x00000] in <fea47f2874484328a255745c4babcf92>:0 
+  at Oxide.Plugins.Pop.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00035] in <fea47f2874484328a255745c4babcf92>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.CSPlugin.HandleAddedToManager (Oxide.Core.Plugins.PluginManager manager) [0x00043] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+16:36 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:36 [Info] Rolling back plugin to last good version: Pop
+16:36 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Pop was compiled successfully in 196ms
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Pop was compiled successfully in 172ms
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 1 players out of 40 in server. 0 connecting.</color>
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:37 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:37 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:38 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:38 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:38 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:38 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:38 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:38 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:42 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:43 [Info] Pop was compiled successfully in 1818ms
+16:43 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:43 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:43 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:43 [Warning] [DEBUG] Reload requested for plugin which is already loading: Pop
+16:43 [Info] Pop was compiled successfully in 211ms
+16:43 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:43 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:43 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:44 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:44 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:44 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:44 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:44 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:44 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:44 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:44 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 0 connecting.</color>
+16:44 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:49 [Info] Pop was compiled successfully in 1919ms
+16:49 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:49 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 1 connecting.</color>
+16:49 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:49 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:49 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 1 connecting.</color>
+16:49 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:49 [Error] Error while compiling: Pop.cs(28,59): error CS1525: Unexpected symbol `)', expecting `)' or `,'
+16:49 [Error] Error while compiling: Pop.cs(28,53): error CS1503: Argument `#1' cannot convert `int' expression to type `string'
+16:50 [Info] Pop was compiled successfully in 185ms
+16:50 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:50 [Info] [Pop] 0
+16:50 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 1 players out of 40 in server. 1 connecting.</color>
+16:50 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:50 [Error] Error while compiling: Pop.cs(29,13): error CS1501: No overload for method `Puts' takes `0' arguments
+16:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:52 [Error] Error while compiling: Pop.cs(30,13): error CS1501: No overload for method `Puts' takes `0' arguments
+16:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:52 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:52 [Warning] [DEBUG] Reload requested for plugin which is already loading: Pop
+16:52 [Info] Pop was compiled successfully in 216ms
+16:52 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:52 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 1 players out of 40 in server. 0 connecting.</color>
+16:52 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:52 [Info] Pop was compiled successfully in 247ms
+16:52 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:52 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 1 players out of 40 in server. 0 connecting.</color>
+16:52 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:52 [Error] Error while compiling: Pop.cs(27,16): error CS1525: Unexpected symbol `queuePlayers', expecting `.'
+16:52 [Error] Error while compiling: Pop.cs(35,21): error CS0103: The name `connectingPlayers' does not exist in the current context
+16:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:53 [Error] Error while compiling: Pop.cs(35,21): error CS0103: The name `connectingPlayers' does not exist in the current context
+16:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:53 [Error] Error while compiling: Pop.cs(35,21): error CS0103: The name `connectingPlayers' does not exist in the current context
+16:53 [Info] Pop was compiled successfully in 165ms
+16:53 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:53 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 1 players out of 40 in server. 0 connecting and 0 in queue.</color>
+16:53 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] [Pop] <color=#BDC3C7>[ <color=#E74C3C>Strangeland</color> ] There is 0 players out of 40 in server. 1 connecting and 0 in queue.</color>
+16:54 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] Pop was compiled successfully in 256ms
+16:54 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] Pop was compiled successfully in 193ms
+16:54 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:55 [Error] Error while compiling: Pop.cs(37,25): error CS0103: The name `commandAdvertEnabled' does not exist in the current context
+16:55 [Error] Error while compiling: Pop.cs(37,21): error CS0103: The name `commandAdvertEnabled' does not exist in the current context
+16:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:55 [Error] Error while compiling: Pop.cs(39,21): error CS0103: The name `commandAdvertEnabled' does not exist in the current context
+16:55 [Error] Error while compiling: Pop.cs(43,21): error CS0103: The name `commandAdvertEnabled' does not exist in the current context
+16:55 [Info] Pop was compiled successfully in 176ms
+16:55 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:55 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:55 [Info] Pop was compiled successfully in 182ms
+16:55 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:55 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:55 [Info] Pop was compiled successfully in 260ms
+16:55 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:55 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:57 [Info] Pop was compiled successfully in 1861ms
+16:57 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Pop was compiled successfully in 233ms
+16:57 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:57 [Info] Pop was compiled successfully in 272ms
+16:57 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Pop was compiled successfully in 175ms
+16:57 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:57 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:58 [Info] Pop was compiled successfully in 199ms
+16:58 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:58 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:58 [Info] Pop was compiled successfully in 261ms
+16:58 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+16:58 [Info] Loaded plugin Pop v1.0.0 by SaSha
+16:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+16:59 [Error] Error while compiling: Pop.cs(12,13): error CS0103: The name `cmd' does not exist in the current context
+17:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:00 [Error] Error while compiling: Pop.cs(19,13): error CS1514: Unexpected symbol `}', expecting `.' or `{'
+17:00 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+17:00 [Error] Unable to load Pop. Pop.cs(19,13): error CS1514: Unexpected symbol `}', expecting `.' or `{'
+17:00 [Info] Previous version of plugin failed to load: Pop
+17:01 [Error] Error while compiling: Pop.cs(12,13): error CS0103: The name `cmd' does not exist in the current context
+17:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:01 [Warning] [DEBUG] Load requested for plugin which is already loading: Pop
+17:01 [Error] Error while compiling: Pop.cs(19,13): error CS0103: The name `cmd' does not exist in the current context
+17:01 [Error] Error while compiling: Pop.cs(12,13): error CS0103: The name `cmd' does not exist in the current context
+17:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:01 [Error] Error while compiling: Pop.cs(12,23): error CS0103: The name `Interface' does not exist in the current context
+17:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:02 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:03 [Error] Error while compiling: Pop.cs(17,25): error CS0246: The type or namespace name `IPlayer' could not be found. Are you missing `Oxide.Core.Libraries.Covalence' using directive?
+17:03 [Error] Error while compiling: Pop.cs(12,25): error CS0246: The type or namespace name `IPlayer' could not be found. Are you missing `Oxide.Core.Libraries.Covalence' using directive?
+17:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:03 [Info] Pop was compiled successfully in 279ms
+17:03 [Info] Loaded plugin Pop v1.0.0 by SaSha
+17:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:04 [Info] Pop was compiled successfully in 1827ms
+17:04 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+17:04 [Info] Loaded plugin Pop v1.0.0 by SaSha
+17:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:04 [Info] Pop was compiled successfully in 355ms
+17:04 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+17:04 [Info] Loaded plugin Pop v1.0.0 by SaSha
+17:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:05 [Info] Pop was compiled successfully in 208ms
+17:05 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+17:05 [Info] Loaded plugin Pop v1.0.0 by SaSha
+17:05 [Error] Error while compiling: Pop.cs(31,13): error CS0127: `Oxide.Plugins.Pop.OnPlayerChat(BasePlayer, string)': A return keyword must not be followed by any expression when method returns void
+17:06 [Error] Error while compiling: Pop.cs(31,20): error CS0037: Cannot convert null to `bool' because it is a value type
+17:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:06 [Info] Pop was compiled successfully in 191ms
+17:06 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+17:06 [Info] Loaded plugin Pop v1.0.0 by SaSha
+17:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:12 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:19 [Info] RecyclerSpeed was compiled successfully in 2028ms
+17:19 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:22 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:23 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+17:23 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+17:23 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:23 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:23 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:23 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+17:23 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+17:23 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+17:23 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+17:23 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+17:23 [Info] Loaded plugin Pop v1.0.0 by SaSha
+17:23 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:23 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:23 [Info] GatherManager, StackSizeController and BetterLoot were compiled successfully in 2002ms
+17:23 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+17:23 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+17:23 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+17:23 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:23 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:23 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+17:23 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+17:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:23 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+17:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:23 [Info] [BetterLoot] Updating internals ...
+17:23 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:23 [Info] [BetterLoot] Removed 7 stacked LootContainer
+17:23 [Info] [BetterLoot] Populated '2406' supported containers.
+17:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:23 [Info] RecyclerSpeed was compiled successfully in 396ms
+17:23 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:23 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:24 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:24 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+17:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:30 [Info] MapNoteTeleport was compiled successfully in 2019ms
+17:30 [Warning] [MapNote Teleport] Creating a new configuration file
+17:30 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:31 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:31 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:33 [Info] MapNoteTeleport was compiled successfully in 1953ms
+17:33 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:33 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:33 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:33 [Info] MapNoteTeleport was compiled successfully in 275ms
+17:33 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:33 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:35 [Info] MapNoteTeleport was compiled successfully in 2067ms
+17:35 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:35 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:35 [Info] MapNoteTeleport was compiled successfully in 233ms
+17:35 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:35 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:35 [Info] MapNoteTeleport was compiled successfully in 395ms
+17:35 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:35 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:37 [Info] MapNoteTeleport was compiled successfully in 2033ms
+17:37 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:37 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:37 [Info] MapNoteTeleport was compiled successfully in 222ms
+17:37 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:37 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:37 [Info] MapNoteTeleport was compiled successfully in 464ms
+17:37 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:37 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:38 [Error] Error while compiling: MapNoteTeleport.cs(418,27): error CS0119: Expression denotes a `value', where a `method group' was expected
+17:38 [Info] MapNoteTeleport was compiled successfully in 178ms
+17:38 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:38 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:38 [Info] MapNoteTeleport was compiled successfully in 309ms
+17:38 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:38 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:39 [Info] MapNoteTeleport was compiled successfully in 243ms
+17:39 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:39 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:39 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:39 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:40 [Info] MapNoteTeleport was compiled successfully in 1967ms
+17:40 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:40 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:41 [Error] Error while compiling: MapNoteTeleport.cs(239,61): error CS0103: The name `playerData' does not exist in the current context
+17:41 [Info] MapNoteTeleport was compiled successfully in 211ms
+17:41 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:41 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:41 [Info] MapNoteTeleport was compiled successfully in 206ms
+17:41 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:41 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:42 [Info] MapNoteTeleport was compiled successfully in 400ms
+17:42 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:42 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:43 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:44 [Error] Error while compiling: MapNoteTeleport.cs(291,54): error CS1061: Type `BasePlayer' does not contain a definition for `Id' and no extension method `Id' of type `BasePlayer' could be found. Are you missing an assembly reference?
+17:45 [Info] MapNoteTeleport was compiled successfully in 266ms
+17:45 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:45 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:45 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:45 [Info] MapNoteTeleport was compiled successfully in 268ms
+17:45 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:45 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:45 [Info] MapNoteTeleport was compiled successfully in 205ms
+17:45 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:45 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:45 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:46 [Info] MapNoteTeleport was compiled successfully in 178ms
+17:46 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+17:46 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+17:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:47 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:53 [Info] BypassQueue was compiled successfully in 1859ms
+17:53 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+17:53 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+17:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:03 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:13 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:23 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:33 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+18:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:37 [Info] NoGiveNotices was compiled successfully in 1891ms
+18:37 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:39 [Info] LoadingMessages was compiled successfully in 2293ms
+18:39 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:41 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+18:41 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+18:41 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+18:41 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+18:41 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+18:41 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+18:41 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+18:41 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+18:41 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+18:41 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+18:41 [Info] Loaded plugin Pop v1.0.0 by SaSha
+18:41 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+18:41 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+18:41 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+18:41 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+18:41 [Info] Unloaded plugin Bypass Queue v1.0.4 by Orange
+18:41 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+18:41 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+18:41 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:41 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:41 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:41 [Info] BetterLoot, StackSizeController and TimeOfDay were compiled successfully in 2250ms
+18:41 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:41 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+18:41 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+18:41 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:41 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:41 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+18:41 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:41 [Info] [BetterLoot] Updating internals ...
+18:41 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:41 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+18:41 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+18:41 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:41 [Info] [BetterLoot] Removed 6 stacked LootContainer
+18:41 [Info] [BetterLoot] Populated '2356' supported containers.
+18:42 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:42 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:43 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:43 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:44 [Info] LoadingMessages was compiled successfully in 2094ms
+18:44 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:44 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:45 [Info] LoadingMessages was compiled successfully in 416ms
+18:45 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:45 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:46 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:46 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:51 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+18:51 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:51 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+18:51 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+18:51 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+18:51 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 101ms
+18:51 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:51 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+18:51 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+18:51 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+18:51 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+18:51 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+18:51 [Info] Unloaded plugin Bypass Queue v1.0.4 by Orange
+18:51 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+18:51 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:52 [Info] Loading Oxide Core v2.0.4050...
+18:52 [Info] Loading extensions...
+18:52 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+18:52 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:52 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+18:52 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:52 [Info] Unity version: 2019.4.7f1
+18:52 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:52 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:52 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:52 [Info] Using Covalence provider for game 'Rust'
+18:52 [Info] Loading plugins...
+18:52 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+18:52 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:52 [Info] AdvertMessages, BetterLoot, BypassQueue, GatherManager, LoadingMessages, MapNoteTeleport, NoGiveNotices, Pop, RecyclerSpeed, StackSizeController, TimeOfDay, Vanish and Whitelist were compiled successfully in 0ms
+18:52 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+18:52 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+18:52 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:52 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:52 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+18:52 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+18:52 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+18:52 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+18:52 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:52 [Info] Loaded plugin Pop v1.0.0 by SaSha
+18:52 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+18:52 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+18:52 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+18:52 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:52 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+18:52 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+18:55 [Info] IP address from external API: 217.144.54.193
+18:55 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+18:55 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:55 [Info] [BetterLoot] Updating internals ...
+18:55 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 111ms
+18:55 [Info] [BetterLoot] Removed 4 stacked LootContainer
+18:55 [Info] [BetterLoot] Populated '548' supported containers.
+18:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:00 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+19:00 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+19:00 [Info] Unloaded plugin Bypass Queue v1.0.4 by Orange
+19:00 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+19:00 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+19:00 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+19:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+19:00 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+19:00 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+19:00 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+19:00 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+19:00 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+19:00 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+19:00 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+19:00 [Info] Loading Oxide Core v2.0.4050...
+19:00 [Info] Loading extensions...
+19:00 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+19:00 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+19:00 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+19:00 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+19:00 [Info] Unity version: 2019.4.7f1
+19:00 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+19:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:00 [Info] Using Covalence provider for game 'Rust'
+19:00 [Info] Loading plugins...
+19:00 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+19:00 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+19:00 [Info] AdvertMessages, BetterLoot, BypassQueue, GatherManager, LoadingMessages, MapNoteTeleport, NoGiveNotices, Pop, RecyclerSpeed, StackSizeController, TimeOfDay, Vanish and Whitelist were compiled successfully in 0ms
+19:00 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+19:00 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+19:00 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:00 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+19:00 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+19:00 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+19:00 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+19:00 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+19:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+19:00 [Info] Loaded plugin Pop v1.0.0 by SaSha
+19:00 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+19:00 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+19:00 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+19:00 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+19:00 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+19:00 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+19:02 [Info] IP address from external API: 217.144.54.193
+19:02 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+19:02 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:02 [Info] [BetterLoot] Updating internals ...
+19:02 [Info] [BetterLoot] No stacked LootContainer found.
+19:02 [Info] [BetterLoot] Populated '156' supported containers.
+19:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:10 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+19:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:20 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+19:30 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:40 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:50 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:00 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:10 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+20:20 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:30 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:40 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:50 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:00 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:10 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+21:20 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:30 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:40 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:50 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:00 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:10 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+22:20 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:30 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:40 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:50 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:00 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:10 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+23:20 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:30 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:40 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:50 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!

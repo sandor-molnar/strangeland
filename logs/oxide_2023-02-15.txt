@@ -1,0 +1,1007 @@
+00:00 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:10 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+00:20 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+00:30 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+00:40 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+00:50 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:00 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:10 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+01:20 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+01:30 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+01:40 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+01:50 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:00 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:10 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+02:20 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+02:30 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+02:40 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+02:50 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:00 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:10 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+03:20 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+03:30 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+03:40 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+03:47 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+03:47 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+03:47 [Info] BetterLoot, StackSizeController, Whitelist, RecyclerSpeed, BypassQueue, GatherManager, Vanish, Pop, MapNoteTeleport, LoadingMessages, NoGiveNotices and AdvertMessages were compiled successfully in 2861ms
+03:47 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 113ms
+03:47 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+03:47 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+03:47 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+03:47 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+03:47 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+03:47 [Info] Unloaded plugin Bypass Queue v1.0.4 by Orange
+03:47 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 118ms
+03:47 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+03:47 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+03:47 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+03:47 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+03:47 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+03:47 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+03:47 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+03:47 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+03:47 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+03:47 [Info] [BetterLoot] Updating internals ...
+03:47 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+03:47 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+03:47 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+03:47 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+03:47 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+03:47 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+03:47 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 112ms
+03:47 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+03:47 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+03:47 [Info] Loaded plugin Pop v1.0.0 by SaSha
+03:47 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+03:47 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+03:47 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+03:47 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+03:47 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+03:47 [Info] [BetterLoot] Removed 5 stacked LootContainer
+03:47 [Info] [BetterLoot] Populated '2206' supported containers.
+03:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+04:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+04:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+04:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+04:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+04:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+05:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+05:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+05:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+05:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+05:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+05:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+06:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+06:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+06:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+06:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+06:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+06:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+07:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+07:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+07:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+07:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+07:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+07:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+08:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+08:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+08:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+08:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+08:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+08:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+09:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+09:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+09:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+09:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+09:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+09:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+10:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+10:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+10:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+10:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+10:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+10:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+11:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+11:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+11:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+11:33 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:33 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:34 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:34 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:35 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:35 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:36 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:36 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+11:37 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:37 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:38 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:38 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:39 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:39 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:40 [Info] BetterLoot was compiled successfully in 1941ms
+11:40 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:40 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:40 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+11:40 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:40 [Info] [BetterLoot] Updating internals ...
+11:40 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:40 [Info] [BetterLoot] Removed 4 stacked LootContainer
+11:40 [Info] [BetterLoot] Populated '2120' supported containers.
+11:40 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:40 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:41 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:41 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:42 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:42 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:43 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:43 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:43 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:43 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+11:43 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+11:43 [Info] [BetterLoot] Updating internals ...
+11:43 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+11:43 [Info] [BetterLoot] Removed 1 stacked LootContainer
+11:43 [Info] [BetterLoot] Populated '2276' supported containers.
+11:43 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:44 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:44 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:45 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:45 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:46 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:46 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+11:47 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:47 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:48 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:48 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:49 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:49 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:50 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:50 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:51 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:51 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:52 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:52 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:53 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:53 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:54 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:54 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:55 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:55 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:56 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:56 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+11:57 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:57 [Info] StackSizeController was compiled successfully in 1887ms
+11:57 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+11:57 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+11:57 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+11:57 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+11:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+11:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+11:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+11:57 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+11:58 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:58 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+11:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+11:59 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:59 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+11:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:00 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:00 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:01 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:01 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:02 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:02 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:03 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:03 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:04 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:04 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:06 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:06 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+12:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:07 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:07 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:08 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:08 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:09 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:09 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:10 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:10 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:11 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:11 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:12 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:12 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:13 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:13 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:14 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:14 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:15 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:15 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+12:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+12:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:23 [Info] EntityOwner was compiled successfully in 1996ms
+12:23 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+12:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:35 [Info] EntityOwner was compiled successfully in 1793ms
+12:35 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:35 [Warning] EntityOwner has replaced the 'prod' chat command previously registered by EntityOwner
+12:35 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:37 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+12:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:37 [Info] EntityOwner was compiled successfully in 2000ms
+12:37 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:37 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:38 [Info] EntityOwner was compiled successfully in 227ms
+12:38 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:38 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:38 [Info] EntityOwner was compiled successfully in 266ms
+12:38 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:38 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:38 [Info] EntityOwner was compiled successfully in 199ms
+12:38 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:38 [Info] [Entity Owner] asd
+12:38 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:39 [Info] EntityOwner was compiled successfully in 1969ms
+12:39 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:39 [Info] [Entity Owner] asd
+12:39 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:42 [Info] EntityOwner was compiled successfully in 2078ms
+12:42 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:42 [Info] [Entity Owner] asd
+12:42 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:43 [Info] EntityOwner was compiled successfully in 227ms
+12:43 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:43 [Info] [Entity Owner] asd
+12:43 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:43 [Info] EntityOwner was compiled successfully in 230ms
+12:43 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:43 [Info] [Entity Owner] asd
+12:43 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:44 [Error] Could not load plugin 'EntityOWner' (no plugin found with that file name)
+12:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:45 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:45 [Info] EntityOwner was compiled successfully in 2023ms
+12:45 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:45 [Info] [Entity Owner] asd
+12:45 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:45 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:46 [Info] EntityOwner was compiled successfully in 191ms
+12:46 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:46 [Info] [Entity Owner] asd
+12:46 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:46 [Info] EntityOwner was compiled successfully in 172ms
+12:46 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:46 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:46 [Info] EntityOwner was compiled successfully in 223ms
+12:46 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:46 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:47 [Info] EntityOwner was compiled successfully in 191ms
+12:47 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:47 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:47 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+12:47 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:47 [Info] EntityOwner was compiled successfully in 191ms
+12:47 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:47 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:47 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:49 [Info] EntityOwner was compiled successfully in 1961ms
+12:49 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+12:49 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+12:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:57 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+12:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+12:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+13:07 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+13:17 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+13:27 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+13:37 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+13:47 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+13:57 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:06 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:06 [Info] VendingInStock was compiled successfully in 1922ms
+14:06 [Info] Loaded plugin Vending In Stock v1.1.0 by AVOcoder / rostov114
+14:06 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:07 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+14:07 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:07 [Info] AutomatedStashTraps was compiled successfully in 312ms
+14:07 [Warning] [Automated Stash Traps] Validating configuration values...
+14:07 [Warning] [Automated Stash Traps] Configuration validation complete!
+14:07 [Info] Loaded plugin Automated Stash Traps v1.4.1 by Dana
+14:07 [Info] [Automated Stash Traps] Generated 50 spawn points.
+14:07 [Info] [Automated Stash Traps] Spawned 50 traps.
+14:07 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:08 [Info] Player 'Bumi (76561198988194773)' granted permission 'automatedstashtraps.admin'
+14:08 [Info] Player 'SaSha (76561198377295434)' granted permission 'automatedstashtraps.admin'
+14:08 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:08 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:09 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:09 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:10 [Info] Permission 'adminradar.allowed' doesn't exist
+14:10 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:10 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:11 [Info] AdminRadar was compiled successfully in 2164ms
+14:11 [Warning] [Admin Radar] Creating a new configuration file
+14:11 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+14:11 [Warning] Covalence command alias already exists: radar
+14:11 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+14:11 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+14:11 [Info] [Admin Radar] Cached 3511/14750 entities in 1.237571 seconds!
+14:11 [Info] Player 'SaSha (76561198377295434)' granted permission 'adminradar.allowed'
+14:11 [Info] Player 'Bumi (76561198988194773)' granted permission 'adminradar.allowed'
+14:11 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:11 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: Bumi
+  Player Id: 76561198988194773
+  Stash Position: E9
+  Stash Type: Automated trap
+}
+
+14:11 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:12 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: Bumi
+  Player Id: 76561198988194773
+  Stash Position: F9
+  Stash Type: Automated trap
+}
+
+14:12 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:12 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: Bumi
+  Player Id: 76561198988194773
+  Stash Position: D9
+  Stash Type: Automated trap
+}
+
+14:12 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: Bumi
+  Player Id: 76561198988194773
+  Stash Position: E7
+  Stash Type: Automated trap
+}
+
+14:12 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:13 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:13 [Info] [Automated Stash Traps] Generated 4 spawn points.
+14:13 [Info] [Automated Stash Traps] Spawned 4 traps.
+14:13 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:14 [Info] TeamInfo was compiled successfully in 1984ms
+14:14 [Info] Loaded plugin Team Info v0.1.7 by Lorddy
+14:14 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:14 [Info] Player 'Bumi (76561198988194773)' granted permission 'teaminfo.use'
+14:14 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:15 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:15 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:16 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:16 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:16 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: Bumi
+  Player Id: 76561198988194773
+  Stash Position: H11
+  Stash Type: Automated trap
+}
+
+14:17 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+14:17 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:17 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:18 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:18 [Info] TeamManager was compiled successfully in 1812ms
+14:18 [Info] Loaded plugin Team Manager v1.0.6 by Quantum
+14:18 [Warning] [DEBUG] Load requested for plugin which is already loading: TeamsLogger
+14:18 [Info] TeamsLogger was compiled successfully in 219ms
+14:18 [Warning] [Teams Logger] Creating a new config file.
+14:18 [Info] [Teams Logger] CurrentTeams: 1 | Previously created team with members: Bumi (76561198988194773)
+14:18 [Info] Loaded plugin Teams Logger v1.5.1 by Ujiou
+14:18 [Info] [Teams Logger] OnTeamLeave | Team ID: 1 | Player: 'Bumi' (76561198988194773, is leader: True).
+14:18 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:18 [Info] [Automated Stash Traps] Generated 1 spawn points.
+14:18 [Info] [Automated Stash Traps] Spawned 1 traps.
+14:19 [Info] [Teams Logger] OnTeamCreated | Team ID: 2 | Player: 'Bumi' (76561198988194773) created a new team.
+14:19 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:19 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:20 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:20 [Info] AdminToggle was compiled successfully in 1844ms
+14:20 [Info] Loaded plugin Admin Toggle v1.0.6 by Talha
+14:20 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:21 [Info] Player 'SaSha (76561198377295434)' granted permission 'teaminfo.use'
+14:21 [Info] Player 'SaSha (76561198377295434)' granted permission 'admintoggle.use'
+14:21 [Info] Player 'Bumi (76561198988194773)' granted permission 'admintoggle.use'
+14:21 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:21 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:22 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:22 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:23 [Info] PermissionsManager was compiled successfully in 1922ms
+14:23 [Info] [PermissionsManager] Creating new config file.
+14:23 [Info] Loaded plugin PermissionsManager v2.0.7 by Steenamaroo
+14:23 [Info] Player 'Bumi (76561198988194773)' granted permission 'permissionsmanager.allowed'
+14:23 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:23 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:24 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:24 [Info] Added '// Reference: 0Harmony' in plugin 'FurnaceFullSmelt'
+14:24 [Info] FurnaceFullSmelt was compiled successfully in 1867ms
+14:24 [Error] Failed to call hook 'OnServerInitialized' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.OnServerInitialized () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00032] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:24 [Info] Loaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:24 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:25 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:25 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:26 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:26 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:27 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+14:27 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:27 [Error] Failed to call hook 'Unload' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.Unload () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00052] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:27 [Info] Unloaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:27 [Error] Failed to call hook 'OnServerInitialized' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.OnServerInitialized () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00032] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:27 [Info] Loaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:27 [Error] Failed to call hook 'Unload' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.Unload () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00052] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:27 [Info] Unloaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:27 [Error] Failed to call hook 'OnServerInitialized' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.OnServerInitialized () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00032] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:27 [Info] Loaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:27 [Error] Failed to call hook 'Unload' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.Unload () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00052] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:27 [Info] Unloaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:27 [Error] Failed to call hook 'OnServerInitialized' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.OnServerInitialized () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00032] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:27 [Info] Loaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:27 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:28 [Error] Failed to call hook 'Unload' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.Unload () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00052] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:28 [Info] Unloaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:28 [Error] Failed to call hook 'OnServerInitialized' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.OnServerInitialized () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00032] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:28 [Info] Loaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:28 [Error] Failed to call hook 'Unload' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.Unload () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00052] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:28 [Info] Unloaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:28 [Error] Failed to call hook 'OnServerInitialized' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.OnServerInitialized () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00032] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:28 [Info] Loaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:28 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:28 [Error] Failed to call hook 'Unload' on plugin 'FurnaceFullSmelt v0.0.2' (UnauthorizedAccessException: System access is restricted, you are not allowed to use Harmony.HarmonyInstance)
+  at Oxide.Plugins.FurnaceFullSmelt.Unload () [0x00000] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.FurnaceFullSmelt.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00052] in <9df1949ecc6747f2a4f6cb144cfdd50c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <09575a60985045248bcb43b20faeeb99>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <d5f57e12edfe4fa0b5c5dbdd9b51eff8>:0 
+14:28 [Info] Unloaded plugin Furnace Full Smelt v0.0.2 by Aspect.dev
+14:28 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:29 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:29 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:30 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:30 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:31 [Info] Permission 'quicksmelt.use' doesn't exist
+14:31 [Info] Permission 'quicksmelt.use' doesn't exist
+14:31 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:31 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:32 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:32 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:33 [Error] Could not load plugin 'QuickSmelt' (no plugin found with that file name)
+14:33 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:33 [Error] Could not load plugin 'QuickSmelt' (no plugin found with that file name)
+14:33 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:33 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+14:33 [Info] Unloaded plugin Pop v1.0.0 by SaSha
+14:33 [Info] Unloaded plugin Vanish v1.6.8 by Whispers88
+14:33 [Info] Unloaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+14:33 [Info] Unloaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+14:33 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+14:33 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+14:33 [Info] Unloaded plugin Bypass Queue v1.0.4 by Orange
+14:33 [Info] Unloaded plugin MapNote Teleport v2.2.1 by MON@H
+14:33 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+14:33 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+14:33 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+14:33 [Info] Unloaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+14:33 [Info] Unloaded plugin Entity Owner v3.4.1 by Calytic
+14:33 [Info] Unloaded plugin Vending In Stock v1.1.0 by AVOcoder / rostov114
+14:33 [Info] [Automated Stash Traps] Cleaned up 50 traps.
+14:33 [Info] Unloaded plugin Automated Stash Traps v1.4.1 by Dana
+14:33 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+14:33 [Info] Unloaded plugin Team Info v0.1.7 by Lorddy
+14:33 [Info] Unloaded plugin Team Manager v1.0.6 by Quantum
+14:33 [Info] Unloaded plugin Teams Logger v1.5.1 by Ujiou
+14:33 [Info] Unloaded plugin Admin Toggle v1.0.6 by Talha
+14:33 [Info] Unloaded plugin PermissionsManager v2.0.7 by Steenamaroo
+14:34 [Info] Loading Oxide Core v2.0.4050...
+14:34 [Info] Loading extensions...
+14:34 [Info] Loaded extension CSharp v2.0.4058 by Oxide Team and Contributors
+14:34 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+14:34 [Info] Loaded extension Rust v2.0.5749 by Oxide Team and Contributors
+14:34 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+14:34 [Info] Unity version: 2019.4.7f1
+14:34 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+14:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:34 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+14:34 [Info] Using Covalence provider for game 'Rust'
+14:34 [Info] Loading plugins...
+14:34 [Info] Loaded plugin Rust v2.0.5749 by Oxide Team and Contributors
+14:34 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+14:34 [Info] AdminRadar, AdminToggle, AdvertMessages, AutomatedStashTraps, BetterLoot, BypassQueue, EntityOwner, GatherManager, LoadingMessages, MapNoteTeleport, NoGiveNotices, PermissionsManager, Pop, RecyclerSpeed, StackSizeController, TeamInfo, TeamManager, TeamsLogger, TimeOfDay, Vanish, VendingInStock and Whitelist were compiled successfully in 0ms
+14:34 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+14:34 [Info] Loaded plugin Admin Toggle v1.0.6 by Talha
+14:34 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+14:34 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+14:34 [Warning] [Automated Stash Traps] Validating configuration values...
+14:34 [Warning] [Automated Stash Traps] Configuration validation complete!
+14:34 [Info] Loaded plugin Automated Stash Traps v1.4.1 by Dana
+14:34 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:34 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+14:34 [Info] Loaded plugin Bypass Queue v1.0.4 by Orange
+14:34 [Info] Loaded plugin Entity Owner v3.4.1 by Calytic
+14:34 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+14:34 [Info] Loaded plugin Loading Messages v1.0.9 by CosaNostra/Def/klauz24
+14:34 [Info] Loaded plugin MapNote Teleport v2.2.1 by MON@H
+14:34 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+14:34 [Info] Loaded plugin PermissionsManager v2.0.7 by Steenamaroo
+14:34 [Info] Loaded plugin Pop v1.0.0 by SaSha
+14:34 [Info] Loaded plugin Recycler Speed v2.0.2 by Ryz0r/yetzt
+14:34 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+14:34 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+14:34 [Info] Loaded plugin Team Info v0.1.7 by Lorddy
+14:34 [Info] Loaded plugin Team Manager v1.0.6 by Quantum
+14:34 [Info] Loaded plugin Teams Logger v1.5.1 by Ujiou
+14:34 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+14:34 [Info] Loaded plugin Vanish v1.6.8 by Whispers88
+14:34 [Info] Loaded plugin Vending In Stock v1.1.0 by AVOcoder / rostov114
+14:34 [Info] Loaded plugin Whitelist v3.3.0 by Wulf/lukespragg
+14:39 [Info] IP address from external API: 217.144.54.193
+14:39 [Info] [BetterLoot] Using '45' active of '56' supported containertypes
+14:39 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+14:39 [Info] [BetterLoot] Updating internals ...
+14:39 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 178ms
+14:40 [Info] [BetterLoot] Removed 10 stacked LootContainer
+14:40 [Info] [BetterLoot] Populated '2778' supported containers.
+14:40 [Info] [Automated Stash Traps] Generated 50 spawn points.
+14:40 [Info] [Automated Stash Traps] Spawned 50 traps.
+14:40 [Info] [Admin Radar] Cached 11569/75684 entities in 19.918628 seconds!
+14:40 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:41 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:41 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:42 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:42 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:43 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:43 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:44 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:44 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:44 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+14:45 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:45 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:46 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:46 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:47 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+14:54 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+15:04 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:14 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+15:24 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+15:34 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+15:44 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+15:54 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:04 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:14 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+16:24 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+16:34 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+16:44 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+16:54 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:04 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:14 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+17:24 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+17:34 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+17:44 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+17:54 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:01 [Info] Unloaded plugin Admin Toggle v1.0.6 by Talha
+18:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:04 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:07 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:08 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:09 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:10 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:11 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:12 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:13 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:14 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:14 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:15 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:16 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:17 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:18 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:19 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:20 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:21 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:22 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:23 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:24 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:24 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+18:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:25 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:26 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:27 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:28 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:29 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:30 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:31 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:32 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:33 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:34 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:34 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+18:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:35 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:36 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:37 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:38 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:39 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:40 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:41 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: SaSha
+  Player Id: 76561198377295434
+  Stash Position: Q12
+  Stash Type: Automated trap
+}
+
+18:41 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:42 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: SaSha
+  Player Id: 76561198377295434
+  Stash Position: T11
+  Stash Type: Automated trap
+}
+
+18:42 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:43 [Info] [Automated Stash Traps] Generated 2 spawn points.
+18:43 [Info] [Automated Stash Traps] Spawned 2 traps.
+18:43 [Info] [Automated Stash Traps] A cheater has been spotted
+{
+  Player: SaSha
+  Player Id: 76561198377295434
+  Stash Position: W4
+  Stash Type: Automated trap
+}
+
+18:43 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:44 [Info] [Automated Stash Traps] Generated 1 spawn points.
+18:44 [Info] [Automated Stash Traps] Spawned 1 traps.
+18:44 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:44 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+18:45 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:45 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:46 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:47 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:47 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:48 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:48 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:48 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:49 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:49 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:49 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:50 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:50 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:50 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:51 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:51 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:51 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:52 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:52 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:52 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:53 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:53 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:53 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:54 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:54 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:54 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:54 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+18:55 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:55 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:55 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:56 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:56 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:56 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:57 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:57 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:57 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:58 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:58 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:58 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:59 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+18:59 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+18:59 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:00 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:00 [Info] NTeleportation was compiled successfully in 2723ms
+19:00 [Info] [NTeleportation] Loaded default configuration.
+19:00 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.1' took 237ms
+19:00 [Info] Loaded plugin NTeleportation v1.7.1 by nivex
+19:00 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:00 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:01 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:01 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:01 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:01 [Info] [NTeleportation] Bumi teleported to SaSha.
+19:02 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:02 [Info] [NTeleportation] Bumi teleported to SaSha.
+19:02 [Info] [NTeleportation] SaSha teleported to Bumi.
+19:02 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:02 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:03 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:03 [Info] Unloaded plugin NTeleportation v1.7.1 by nivex
+19:03 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.1' took 198ms
+19:03 [Info] Loaded plugin NTeleportation v1.7.1 by nivex
+19:03 [Info] [NTeleportation] Bumi teleported to SaSha.
+19:03 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:03 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:03 [Info] [NTeleportation] SaSha teleported to Bumi.
+19:04 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:04 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:04 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:04 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:05 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:05 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:06 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:06 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:06 [Info] Player 'SaSha(76561198377295434)' added to group: admin
+19:07 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:07 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:08 [Info] Player 'Bumi(76561198988194773)' added to group: admin
+19:14 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+19:24 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+19:34 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+19:44 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+19:54 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:04 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:14 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+20:24 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+20:34 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+20:44 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+20:54 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:04 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:14 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+21:24 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+21:34 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+21:44 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+21:54 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:04 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:14 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+22:24 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+22:34 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+22:44 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+22:54 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:04 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:14 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>
+23:24 [Info] [Advert Messages] The team limit is <color=#E67E22>2</color>! <color=#2ECC71>Trading</color> and <color=#2ECC71>being neatural</color> is allowed, but <color=#C0392B>alliances</color> are bannable!
+23:34 [Info] [Advert Messages] Please report players in <color=#E67E22>F7</color> or in our <color=#E67E22>discord</color> server. Remember to <color=#C0392B>not mention them in chat</color>, that usually causes them to stop their suspicious activity, and we can't invatigate the case.
+23:44 [Info] [Advert Messages] Our discord server is <color=#E67E22>discord.strangeland.eu</color>!
+23:54 [Info] [Advert Messages] <color=#C0392B>We don't allow alliances!</color> <color=#2ECC71>Truces are allowed</color>, but only for not raiding/roofcamping/doorcamping eachother. If you not shoot someone in a PVP/raid situation, <color=#C0392B>we count that as an alliance!</color>

@@ -1,0 +1,13 @@
+{
+  "multipleplayers": "Multiple players found:\n\r",
+  "nopermission": "You do not have permission for atp",
+  "noplayerfound": "No player found for name: ",
+  "noplayergiven": "No player name or ID given ",
+  "noplayertogiven": "No player name or ID given for to",
+  "noplayerpos": "No player position found for name: ",
+  "syntaxatp": "please provide either a target player (to) or two players (from to)",
+  "syntaxatp2": "please provide a target player",
+  "teleportingtwo": "Teleporting from to: ",
+  "teleportingto": "Teleporting to: ",
+  "teleportingtoyou": "Teleporting to you: "
+}

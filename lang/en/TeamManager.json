@@ -1,0 +1,14 @@
+{
+  "SyntaxError": "Syntax Error!",
+  "PlayerNotFound": "Player not found!",
+  "MultiplePlayersFound": "Multiple players found",
+  "TeamsDisabled": "Teams are disabled on this server!",
+  "NotInTeam": "You are not in a team!",
+  "CannotPromoteYourself": "You cannot promote yourself!",
+  "CannotInviteYourself": "You cannot invite yourself!",
+  "NotTeamLeader": "You are not the team leader!",
+  "NotInYourTeam": "does not seem to be in your team!",
+  "Promoted": "Promoted",
+  "AlreadyInTeam": "You're already in a team!",
+  "Invited": "Invited"
+}

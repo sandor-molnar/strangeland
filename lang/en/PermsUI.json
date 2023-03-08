@@ -1,0 +1,7 @@
+{
+  "NoPermission": "You don't have permission to use this",
+  "Syntax": "Use /perms [user|group] [id|name]",
+  "GroupNF": "Group not found",
+  "UserNF": "Player not found",
+  "Info": "[{0}/{1}] Permissions for {2}"
+}
